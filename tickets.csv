@@ -1,0 +1,1201 @@
+index,ticket_id,created_date,customer,region,channel,subject,severity,time_to_resolve_hours,agent_touches,reopened,sev_weight,category
+0,IDC-42299,2026-04-16T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S3 - Medium,23.2,6,No,2,Integration & Config
+1,IDC-43422,2026-04-13T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Set up user access for two new team members,S4 - Low,58.4,1,No,1,Integration & Config
+2,IDC-44651,2026-02-24T00:00:00.000Z,Pinnacle Play,US-CO,Email,Can the check flag an underage applicant?,S3 - Medium,9.4,6,No,2,Compliance Decision Friction
+3,IDC-44301,2026-02-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Address normalization rejecting apartment formats,S4 - Low,52.5,3,No,1,User Verification Friction
+4,IDC-44743,2026-07-22T00:00:00.000Z,Pinnacle Play,US-CO,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,20.7,4,No,2,User Verification Friction
+5,IDC-44428,2026-03-12T00:00:00.000Z,Ashgrove Bet,UK,Portal,Inaccurate PEP alert on an obviously low-risk player,S4 - Low,14.8,3,No,1,Compliance Decision Friction
+6,IDC-44509,2026-06-18T00:00:00.000Z,Ashgrove Bet,UK,Phone,Token creation request returning 401,S4 - Low,45.3,3,No,1,Integration & Config
+7,IDC-43970,2026-05-12T00:00:00.000Z,Marigold Gaming,US-MI,Email,apiKey rejected when sent in the request body,S3 - Medium,31.6,6,No,2,Integration & Config
+8,IDC-43244,2026-04-04T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,9.1,2,No,2,Platform Reliability Friction
+9,IDC-44850,2026-04-27T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Invoice query forwarded from finance,S4 - Low,60.7,2,No,1,Account Admin
+10,IDC-42384,2026-06-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Webhook signature verification failing in staging,S3 - Medium,19.5,6,No,2,Platform Reliability Friction
+11,IDC-42236,2026-04-14T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,33.8,1,No,1,Account Admin
+12,IDC-44343,2026-07-07T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,39.7,6,No,2,Compliance Decision Friction
+13,IDC-42689,2026-07-24T00:00:00.000Z,Rivet Play,CA-ON,Email,Selfie step blank on Android Chrome,S3 - Medium,9.7,3,No,2,User Verification Friction
+14,IDC-44519,2026-05-24T00:00:00.000Z,Ashgrove Bet,UK,Email,Date of birth validation rejecting valid 1999 dates,S4 - Low,49,3,No,1,User Verification Friction
+15,IDC-43843,2026-03-02T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Can the check flag an underage applicant?,S3 - Medium,13.8,5,No,2,Compliance Decision Friction
+16,IDC-42861,2026-05-15T00:00:00.000Z,Rivet Play,CA-ON,Email,"PO Box treated as invalid, several player complaints",S3 - Medium,33.7,3,No,2,User Verification Friction
+17,IDC-44230,2026-02-19T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Player says they were verified twice and charged twice,S3 - Medium,24.8,6,No,2,User Verification Friction
+18,IDC-42692,2026-05-31T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S4 - Low,36.9,2,No,1,Account Admin
+19,IDC-43063,2026-03-07T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Step-up auth triggering for returning players,S3 - Medium,20.7,4,No,2,User Verification Friction
+20,IDC-42391,2026-02-22T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S3 - Medium,35.9,5,No,2,Integration & Config
+21,IDC-44375,2026-07-02T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Question about the data retention period,S4 - Low,34.6,3,No,1,Account Admin
+22,IDC-42503,2026-02-02T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S4 - Low,46.3,3,No,1,Integration & Config
+23,IDC-42738,2026-04-06T00:00:00.000Z,Rivet Play,CA-ON,Email,"Image capture loops, QR code keeps reloading on handoff",S4 - Low,32.4,1,No,1,User Verification Friction
+24,IDC-42488,2026-02-26T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S4 - Low,65.3,1,No,1,Account Admin
+25,IDC-42947,2026-04-28T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,26.8,2,No,2,User Verification Friction
+26,IDC-43284,2026-07-19T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Verification failing with provider timeout (504),S2 - High,20.6,6,No,3,Platform Reliability Friction
+27,IDC-44035,2026-04-25T00:00:00.000Z,Marigold Gaming,US-MI,Email,Address normalization rejecting apartment formats,S2 - High,21.9,7,No,3,User Verification Friction
+28,IDC-43728,2026-07-25T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Can the check flag an underage applicant?,S3 - Medium,15.3,4,No,2,Compliance Decision Friction
+29,IDC-43972,2026-03-04T00:00:00.000Z,Marigold Gaming,US-MI,Email,Invoice query forwarded from finance,S4 - Low,43.1,3,No,1,Account Admin
+30,IDC-42891,2026-06-26T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Manual review queue backing up this week,S3 - Medium,34.8,2,No,2,Operational Backlog Friction
+31,IDC-42211,2026-07-17T00:00:00.000Z,Rivet Play,CA-ON,Email,"Base URL misconfigured, double https in the endpoint",S3 - Medium,13,5,No,2,Integration & Config
+32,IDC-42560,2026-05-04T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"PO Box treated as invalid, several player complaints",S4 - Low,52.3,2,No,1,User Verification Friction
+33,IDC-42666,2026-07-09T00:00:00.000Z,Rivet Play,CA-ON,Email,Watchlist screening flagged the wrong person,S2 - High,12.2,4,No,3,Compliance Decision Friction
+34,IDC-43580,2026-07-08T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Can we suppress PEP alerts for our US-only brand?,S1 - Critical,11.9,7,No,4,Compliance Decision Friction
+35,IDC-44022,2026-03-12T00:00:00.000Z,Marigold Gaming,US-MI,Email,Please add our new brand to the account,S4 - Low,14.1,3,No,1,Integration & Config
+36,IDC-44202,2026-03-05T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Upload succeeds but result says image invalid,S2 - High,25.4,5,No,3,User Verification Friction
+37,IDC-43988,2026-08-01T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Callback not received after verification completes,S3 - Medium,31.6,5,No,2,Platform Reliability Friction
+38,IDC-44834,2026-03-15T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Inaccurate PEP alert on an obviously low-risk player,S1 - Critical,4.5,7,Yes,4,Compliance Decision Friction
+39,IDC-43294,2026-02-17T00:00:00.000Z,Foundry Gaming,US-NJ,Email,apiKey rejected when sent in the request body,S3 - Medium,21.7,2,No,2,Integration & Config
+40,IDC-43514,2026-04-06T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,31.1,4,No,2,Platform Reliability Friction
+41,IDC-43706,2026-02-13T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Duplicate verification sessions created for one user,S3 - Medium,16.7,6,No,2,User Verification Friction
+42,IDC-43243,2026-06-04T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S2 - High,20,7,No,3,Compliance Decision Friction
+43,IDC-43161,2026-03-02T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Multiple users failing data verification, provider looks slow",S1 - Critical,6.6,10,No,4,Platform Reliability Friction
+44,IDC-43362,2026-07-04T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"OTP channel timeout error, must be integer 15-900",S2 - High,18.8,8,No,3,User Verification Friction
+45,IDC-42550,2026-05-17T00:00:00.000Z,Rivet Play,CA-ON,Portal,Set up user access for two new team members,S3 - Medium,41.1,4,No,2,Integration & Config
+46,IDC-42564,2026-02-07T00:00:00.000Z,Rivet Play,CA-ON,Portal,Can the check flag an underage applicant?,S4 - Low,51.5,1,No,1,Compliance Decision Friction
+47,IDC-43996,2026-03-23T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Review decision pending for 48h+, players waiting",S3 - Medium,34.4,5,No,2,Operational Backlog Friction
+48,IDC-43274,2026-07-28T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Base URL misconfigured, double https in the endpoint",S3 - Medium,35.7,5,No,2,Integration & Config
+49,IDC-44071,2026-04-21T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Please adjust our scheduled report frequency,S3 - Medium,9.7,4,No,2,Account Admin
+50,IDC-43206,2026-04-26T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"PO Box treated as invalid, several player complaints",S3 - Medium,35.6,3,No,2,User Verification Friction
+51,IDC-42458,2026-07-26T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,IDPV outcome differs across document types,S3 - Medium,12.2,2,Yes,2,Compliance Decision Friction
+52,IDC-42663,2026-05-09T00:00:00.000Z,Rivet Play,CA-ON,Phone,SSN last-4 not matching for valid users,S4 - Low,43.3,1,No,1,User Verification Friction
+53,IDC-44138,2026-05-09T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,apiKey rejected when sent in the request body,S2 - High,8.1,4,No,3,Integration & Config
+54,IDC-44034,2026-06-27T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Request: export of last month's verification volumes,S4 - Low,28.8,1,No,1,Account Admin
+55,IDC-42572,2026-05-27T00:00:00.000Z,Rivet Play,CA-ON,Portal,How do we clear stuck review cases?,S2 - High,15.5,5,Yes,3,Operational Backlog Friction
+56,IDC-44723,2026-06-30T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Player says they were verified twice and charged twice,S4 - Low,54.4,3,No,1,User Verification Friction
+57,IDC-42887,2026-03-05T00:00:00.000Z,Tidewater Casino,US-NJ,Email,How do we clear stuck review cases?,S3 - Medium,13.7,6,No,2,Operational Backlog Friction
+58,IDC-43762,2026-06-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Full 9-digit SSN check failing after config change,S4 - Low,29.6,1,No,1,User Verification Friction
+59,IDC-43712,2026-07-27T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"Onboarding new market, what config changes are needed?",S4 - Low,16.3,2,No,1,Integration & Config
+60,IDC-44480,2026-05-10T00:00:00.000Z,Ashgrove Bet,UK,Portal,Player says they were verified twice and charged twice,S4 - Low,65.5,1,No,1,User Verification Friction
+61,IDC-43011,2026-07-28T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"OTP channel timeout error, must be integer 15-900",S2 - High,11.1,6,No,3,User Verification Friction
+62,IDC-42578,2026-02-08T00:00:00.000Z,Rivet Play,CA-ON,Phone,Invoice query forwarded from finance,S3 - Medium,24.8,3,No,2,Account Admin
+63,IDC-44168,2026-04-06T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Manual review queue backing up this week,S3 - Medium,38.8,5,No,2,Operational Backlog Friction
+64,IDC-42256,2026-06-14T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S4 - Low,49.1,3,No,1,Integration & Config
+65,IDC-42510,2026-04-15T00:00:00.000Z,Rivet Play,CA-ON,Phone,Request: export of last month's verification volumes,S4 - Low,27.3,3,No,1,Account Admin
+66,IDC-44454,2026-05-27T00:00:00.000Z,Ashgrove Bet,UK,Portal,"Review decision pending for 48h+, players waiting",S2 - High,23.1,6,No,3,Operational Backlog Friction
+67,IDC-43468,2026-02-15T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Player says they were verified twice and charged twice,S3 - Medium,13.4,2,No,2,User Verification Friction
+68,IDC-44762,2026-04-29T00:00:00.000Z,Pinnacle Play,US-CO,Email,Player passed data check but failed secondary auth,S3 - Medium,37,2,No,2,User Verification Friction
+69,IDC-44811,2026-04-01T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Manual review queue backing up this week,S3 - Medium,42.6,5,No,2,Operational Backlog Friction
+70,IDC-43360,2026-07-31T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,29.4,6,No,2,Compliance Decision Friction
+71,IDC-42508,2026-06-13T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Webhook signature verification failing in staging,S3 - Medium,35.9,3,No,2,Platform Reliability Friction
+72,IDC-44460,2026-03-18T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,IP allowlisting request for a new environment,S3 - Medium,38.1,2,No,2,Integration & Config
+73,IDC-44361,2026-07-11T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Please add our new brand to the account,S3 - Medium,11.3,5,No,2,Integration & Config
+74,IDC-42918,2026-07-05T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Inaccurate PEP alert on an obviously low-risk player,S2 - High,8.2,4,No,3,Compliance Decision Friction
+75,IDC-42294,2026-02-20T00:00:00.000Z,Rivet Play,CA-ON,Portal,Callback not received after verification completes,S3 - Medium,25.6,3,No,2,Platform Reliability Friction
+76,IDC-44097,2026-07-06T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Requesting SOC 2 report for our compliance team,S4 - Low,42.7,2,Yes,1,Account Admin
+77,IDC-43949,2026-04-17T00:00:00.000Z,Marigold Gaming,US-MI,Email,Full 9-digit SSN check failing after config change,S3 - Medium,31,5,No,2,User Verification Friction
+78,IDC-43539,2026-04-20T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Watchlist screening flagged the wrong person,S3 - Medium,14.7,5,No,2,Compliance Decision Friction
+79,IDC-42777,2026-07-04T00:00:00.000Z,Rivet Play,CA-ON,Email,"OTP channel timeout error, must be integer 15-900",S2 - High,20.4,4,No,3,User Verification Friction
+80,IDC-42073,2026-06-15T00:00:00.000Z,Rivet Play,CA-ON,Portal,Watchlist screening flagged the wrong person,S3 - Medium,16.4,4,No,2,Compliance Decision Friction
+81,IDC-44676,2026-07-19T00:00:00.000Z,Pinnacle Play,US-CO,Email,Address normalization rejecting apartment formats,S3 - Medium,40.6,4,No,2,User Verification Friction
+82,IDC-42576,2026-03-23T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S3 - Medium,28.4,4,No,2,Account Admin
+83,IDC-44094,2026-06-05T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Requesting SOC 2 report for our compliance team,S4 - Low,44.7,3,No,1,Account Admin
+84,IDC-42545,2026-03-31T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S4 - Low,35.2,2,No,1,Integration & Config
+85,IDC-44577,2026-05-04T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,"Multiple users failing data verification, provider looks slow",S1 - Critical,9.8,9,No,4,Platform Reliability Friction
+86,IDC-42273,2026-05-16T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S4 - Low,54.7,1,No,1,Account Admin
+87,IDC-42374,2026-07-08T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Sanctions hit looks like a false positive, please review",S2 - High,10.5,6,No,3,Compliance Decision Friction
+88,IDC-44772,2026-03-02T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Requesting SOC 2 report for our compliance team,S4 - Low,33.5,2,No,1,Account Admin
+89,IDC-43544,2026-02-19T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Can the check flag an underage applicant?,S3 - Medium,20.5,4,No,2,Compliance Decision Friction
+90,IDC-43965,2026-04-12T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Too many users routed to step-up this week,S2 - High,7.1,6,No,3,User Verification Friction
+91,IDC-44770,2026-04-27T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,ID capture screen freezes on mobile for several users,S3 - Medium,28.2,3,No,2,User Verification Friction
+92,IDC-42647,2026-06-10T00:00:00.000Z,Rivet Play,CA-ON,Email,Manual review queue backing up this week,S3 - Medium,36.1,5,No,2,Operational Backlog Friction
+93,IDC-44275,2026-05-11T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,"Review decision pending for 48h+, players waiting",S3 - Medium,24.9,5,No,2,Operational Backlog Friction
+94,IDC-43149,2026-04-18T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Sanctions hit looks like a false positive, please review",S4 - Low,38.9,2,No,1,Compliance Decision Friction
+95,IDC-43138,2026-06-19T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S2 - High,22.5,6,No,3,User Verification Friction
+96,IDC-42722,2026-03-31T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Please add our new brand to the account,S4 - Low,20.9,2,No,1,Integration & Config
+97,IDC-42418,2026-05-31T00:00:00.000Z,Rivet Play,CA-ON,Email,Requesting SOC 2 report for our compliance team,S3 - Medium,42.7,5,No,2,Account Admin
+98,IDC-42289,2026-05-04T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Too many users routed to step-up this week,S2 - High,6.4,4,No,3,User Verification Friction
+99,IDC-44189,2026-03-16T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,"Sanctions hit looks like a false positive, please review",S3 - Medium,16.8,2,No,2,Compliance Decision Friction
+100,IDC-44553,2026-04-01T00:00:00.000Z,Ashgrove Bet,UK,Email,SSN last-4 not matching for valid users,S3 - Medium,21.9,4,No,2,User Verification Friction
+101,IDC-43429,2026-04-10T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"OTP channel timeout error, must be integer 15-900",S2 - High,9,5,No,3,User Verification Friction
+102,IDC-44783,2026-07-20T00:00:00.000Z,Pinnacle Play,US-CO,Email,How do we clear stuck review cases?,S2 - High,11.6,7,No,3,Operational Backlog Friction
+103,IDC-44654,2026-02-04T00:00:00.000Z,Pinnacle Play,US-CO,Email,Partial match returns no data on first attempt,S2 - High,5.4,6,Yes,3,User Verification Friction
+104,IDC-43738,2026-04-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Callback not received after verification completes,S3 - Medium,25.2,4,No,2,Platform Reliability Friction
+105,IDC-44305,2026-05-05T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Step-up auth triggering for returning players,S2 - High,25.7,9,No,3,User Verification Friction
+106,IDC-44605,2026-05-20T00:00:00.000Z,Ashgrove Bet,UK,Portal,IDPV outcome differs across document types,S4 - Low,52.5,2,No,1,Compliance Decision Friction
+107,IDC-42366,2026-02-24T00:00:00.000Z,Rivet Play,CA-ON,Portal,Player says they were verified twice and charged twice,S2 - High,9.9,7,No,3,User Verification Friction
+108,IDC-42416,2026-02-27T00:00:00.000Z,Rivet Play,CA-ON,Email,Passport read failing for a batch of users,S2 - High,12.1,6,No,3,User Verification Friction
+109,IDC-42005,2026-03-07T00:00:00.000Z,Rivet Play,CA-ON,Portal,Webhook signature verification failing in staging,S2 - High,24.4,4,No,3,Platform Reliability Friction
+110,IDC-44063,2026-07-10T00:00:00.000Z,Marigold Gaming,US-MI,Email,Duplicate verification sessions created for one user,S3 - Medium,22.5,4,No,2,User Verification Friction
+111,IDC-44667,2026-05-16T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Passport read failing for a batch of users,S3 - Medium,10.4,4,No,2,User Verification Friction
+112,IDC-44777,2026-02-12T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Step-up auth triggering for returning players,S2 - High,9.4,8,No,3,User Verification Friction
+113,IDC-43561,2026-05-01T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Step-up auth triggering for returning players,S2 - High,9.3,7,No,3,User Verification Friction
+114,IDC-43434,2026-05-19T00:00:00.000Z,Foundry Gaming,US-NJ,Email,ID capture screen freezes on mobile for several users,S3 - Medium,10.6,2,Yes,2,User Verification Friction
+115,IDC-42233,2026-06-16T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Partial match returns no data on first attempt,S3 - Medium,12.5,6,No,2,User Verification Friction
+116,IDC-42773,2026-07-21T00:00:00.000Z,Rivet Play,CA-ON,Email,Can the check flag an underage applicant?,S4 - Low,63.1,3,Yes,1,Compliance Decision Friction
+117,IDC-42353,2026-06-13T00:00:00.000Z,Rivet Play,CA-ON,Portal,IP allowlisting request for a new environment,S1 - Critical,13.7,11,No,4,Integration & Config
+118,IDC-44859,2026-05-09T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Step-up auth triggering for returning players,S3 - Medium,31.5,4,No,2,User Verification Friction
+119,IDC-43356,2026-07-23T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Step-up auth triggering for returning players,S2 - High,19.6,8,No,3,User Verification Friction
+120,IDC-43542,2026-05-06T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Zip code mismatch on addresses we believe are valid,S4 - Low,29.5,2,Yes,1,User Verification Friction
+121,IDC-44780,2026-04-08T00:00:00.000Z,Pinnacle Play,US-CO,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,22.7,5,No,2,User Verification Friction
+122,IDC-44559,2026-03-18T00:00:00.000Z,Ashgrove Bet,UK,Portal,IP allowlisting request for a new environment,S3 - Medium,30.9,6,No,2,Integration & Config
+123,IDC-44695,2026-07-08T00:00:00.000Z,Pinnacle Play,US-CO,Phone,"Sanctions hit looks like a false positive, please review",S3 - Medium,36.8,5,No,2,Compliance Decision Friction
+124,IDC-42120,2026-02-08T00:00:00.000Z,Rivet Play,CA-ON,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,41.8,3,No,2,Platform Reliability Friction
+125,IDC-42717,2026-04-26T00:00:00.000Z,Rivet Play,CA-ON,Email,apiKey rejected when sent in the request body,S2 - High,25.3,6,No,3,Integration & Config
+126,IDC-42716,2026-07-28T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S3 - Medium,18.9,6,No,2,Integration & Config
+127,IDC-44282,2026-04-01T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Requesting SOC 2 report for our compliance team,S4 - Low,62.7,3,No,1,Account Admin
+128,IDC-43814,2026-07-29T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,SSN last-4 not matching for valid users,S3 - Medium,29.5,6,No,2,User Verification Friction
+129,IDC-44774,2026-06-01T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,16.8,3,No,2,Compliance Decision Friction
+130,IDC-43792,2026-06-11T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Token creation request returning 401,S2 - High,23.5,6,No,3,Integration & Config
+131,IDC-44530,2026-07-04T00:00:00.000Z,Ashgrove Bet,UK,Email,Player says they were verified twice and charged twice,S3 - Medium,31,5,No,2,User Verification Friction
+132,IDC-44500,2026-07-25T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,"Review decision pending for 48h+, players waiting",S4 - Low,68.8,2,Yes,1,Operational Backlog Friction
+133,IDC-44584,2026-02-14T00:00:00.000Z,Ashgrove Bet,UK,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,41.5,4,No,2,Compliance Decision Friction
+134,IDC-42492,2026-03-26T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S3 - Medium,27.6,4,No,2,Integration & Config
+135,IDC-43308,2026-07-30T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Verification failing with provider timeout (504),S3 - Medium,31.2,4,Yes,2,Platform Reliability Friction
+136,IDC-43867,2026-07-09T00:00:00.000Z,Marigold Gaming,US-MI,Email,Too many users routed to step-up this week,S2 - High,23.3,6,No,3,User Verification Friction
+137,IDC-42275,2026-07-25T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Question about the data retention period,S4 - Low,22.9,2,Yes,1,Account Admin
+138,IDC-44694,2026-07-29T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Too many users routed to step-up this week,S3 - Medium,23.5,3,No,2,User Verification Friction
+139,IDC-42821,2026-06-28T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S4 - Low,55.7,1,Yes,1,Account Admin
+140,IDC-42708,2026-05-24T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please adjust our scheduled report frequency,S3 - Medium,11.2,5,No,2,Account Admin
+141,IDC-44662,2026-06-20T00:00:00.000Z,Pinnacle Play,US-CO,Email,Duplicate verification sessions created for one user,S3 - Medium,33.6,5,No,2,User Verification Friction
+142,IDC-42182,2026-08-02T00:00:00.000Z,Rivet Play,CA-ON,Phone,Verification failing with provider timeout (504),S3 - Medium,15.6,6,No,2,Platform Reliability Friction
+143,IDC-44389,2026-07-05T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Verification failing with provider timeout (504),S1 - Critical,7.9,7,No,4,Platform Reliability Friction
+144,IDC-43046,2026-05-29T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Manual review queue backing up this week,S4 - Low,15.8,3,No,1,Operational Backlog Friction
+145,IDC-44497,2026-05-27T00:00:00.000Z,Ashgrove Bet,UK,Email,Question about the data retention period,S4 - Low,34.8,2,No,1,Account Admin
+146,IDC-44430,2026-04-16T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Player passed data check but failed secondary auth,S4 - Low,52.8,3,No,1,User Verification Friction
+147,IDC-43797,2026-07-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Please adjust our scheduled report frequency,S4 - Low,52.8,1,No,1,Account Admin
+148,IDC-43266,2026-07-19T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Watchlist screening flagged the wrong person,S3 - Medium,28.9,5,No,2,Compliance Decision Friction
+149,IDC-44830,2026-05-23T00:00:00.000Z,Pinnacle Play,US-CO,Email,Manual review queue backing up this week,S4 - Low,65.2,1,No,1,Operational Backlog Friction
+150,IDC-43141,2026-07-20T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Review decision pending for 48h+, players waiting",S3 - Medium,35.8,6,No,2,Operational Backlog Friction
+151,IDC-44163,2026-03-03T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Requesting SOC 2 report for our compliance team,S3 - Medium,39.8,2,No,2,Account Admin
+152,IDC-43185,2026-06-04T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Review decision pending for 48h+, players waiting",S2 - High,16.4,6,No,3,Operational Backlog Friction
+153,IDC-44931,2026-03-20T00:00:00.000Z,Pinnacle Play,US-CO,Email,Too many users routed to step-up this week,S4 - Low,53,3,No,1,User Verification Friction
+154,IDC-43685,2026-07-17T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Passport read failing for a batch of users,S2 - High,12.9,4,Yes,3,User Verification Friction
+155,IDC-42107,2026-05-10T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,14.3,5,Yes,2,User Verification Friction
+156,IDC-42617,2026-05-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S4 - Low,20.1,3,Yes,1,Integration & Config
+157,IDC-42907,2026-06-20T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,IDPV outcome differs across document types,S4 - Low,23.3,3,No,1,Compliance Decision Friction
+158,IDC-44049,2026-03-02T00:00:00.000Z,Marigold Gaming,US-MI,Email,Duplicate verification sessions created for one user,S2 - High,19.3,4,No,3,User Verification Friction
+159,IDC-42483,2026-04-11T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S4 - Low,27.4,3,No,1,Account Admin
+160,IDC-44648,2026-07-30T00:00:00.000Z,Pinnacle Play,US-CO,Email,apiKey rejected when sent in the request body,S1 - Critical,9.7,12,No,4,Integration & Config
+161,IDC-44288,2026-04-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,"vendors.error on data check, backend did not respond in time",S1 - Critical,7.7,11,Yes,4,Platform Reliability Friction
+162,IDC-43169,2026-02-02T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Full 9-digit SSN check failing after config change,S3 - Medium,40.7,5,No,2,User Verification Friction
+163,IDC-44634,2026-03-03T00:00:00.000Z,Ashgrove Bet,UK,Portal,Upload succeeds but result says image invalid,S3 - Medium,16.1,4,No,2,User Verification Friction
+164,IDC-42404,2026-05-07T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Upstream data check returning gateway errors since Monday,S2 - High,5.4,9,No,3,Platform Reliability Friction
+165,IDC-43451,2026-02-21T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Passport read failing for a batch of users,S3 - Medium,37.4,5,No,2,User Verification Friction
+166,IDC-44105,2026-07-11T00:00:00.000Z,Marigold Gaming,US-MI,Email,Date of birth validation rejecting valid 1999 dates,S2 - High,15,8,Yes,3,User Verification Friction
+167,IDC-42105,2026-06-21T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Question about the data retention period,S4 - Low,38.3,1,No,1,Account Admin
+168,IDC-43236,2026-06-16T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,36,3,No,2,User Verification Friction
+169,IDC-42217,2026-05-27T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Multiple users failing data verification, provider looks slow",S2 - High,8.5,6,No,3,Platform Reliability Friction
+170,IDC-43417,2026-06-29T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,41.3,5,No,2,User Verification Friction
+171,IDC-43677,2026-06-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Watchlist screening flagged the wrong person,S3 - Medium,22.2,5,No,2,Compliance Decision Friction
+172,IDC-43403,2026-03-16T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Too many users routed to step-up this week,S3 - Medium,13.8,4,No,2,User Verification Friction
+173,IDC-42222,2026-02-20T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S4 - Low,42.5,3,No,1,Integration & Config
+174,IDC-42350,2026-03-16T00:00:00.000Z,Rivet Play,CA-ON,Phone,Can the check flag an underage applicant?,S3 - Medium,12.1,2,No,2,Compliance Decision Friction
+175,IDC-44082,2026-05-13T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Upload succeeds but result says image invalid,S3 - Medium,32.5,4,No,2,User Verification Friction
+176,IDC-42660,2026-02-08T00:00:00.000Z,Rivet Play,CA-ON,Portal,IP allowlisting request for a new environment,S4 - Low,24.4,2,Yes,1,Integration & Config
+177,IDC-44089,2026-07-08T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Player says they were verified twice and charged twice,S3 - Medium,31.7,5,No,2,User Verification Friction
+178,IDC-43926,2026-02-20T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Partial match returns no data on first attempt,S2 - High,21.8,8,No,3,User Verification Friction
+179,IDC-43507,2026-03-20T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Sanctions hit looks like a false positive, please review",S2 - High,14.8,5,No,3,Compliance Decision Friction
+180,IDC-43311,2026-05-06T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Partial match returns no data on first attempt,S4 - Low,42.5,2,No,1,User Verification Friction
+181,IDC-42158,2026-05-30T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S3 - Medium,28.1,6,No,2,Account Admin
+182,IDC-44000,2026-02-12T00:00:00.000Z,Marigold Gaming,US-MI,Email,Full 9-digit SSN check failing after config change,S3 - Medium,14.8,4,No,2,User Verification Friction
+183,IDC-42058,2026-05-05T00:00:00.000Z,Rivet Play,CA-ON,Email,"Sanctions hit looks like a false positive, please review",S2 - High,14.5,7,No,3,Compliance Decision Friction
+184,IDC-44558,2026-07-20T00:00:00.000Z,Ashgrove Bet,UK,Email,Front of licence rejected as invalid image,S3 - Medium,37.1,5,No,2,User Verification Friction
+185,IDC-43534,2026-03-29T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,33.4,4,No,2,User Verification Friction
+186,IDC-42712,2026-04-07T00:00:00.000Z,Rivet Play,CA-ON,Email,Webhook signature verification failing in staging,S2 - High,24,9,No,3,Platform Reliability Friction
+187,IDC-43327,2026-03-25T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,IDPV outcome differs across document types,S4 - Low,19.5,1,No,1,Compliance Decision Friction
+188,IDC-44898,2026-03-07T00:00:00.000Z,Pinnacle Play,US-CO,Email,Token creation request returning 401,S3 - Medium,33.4,6,No,2,Integration & Config
+189,IDC-42748,2026-02-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,21,2,No,2,Compliance Decision Friction
+190,IDC-44489,2026-06-17T00:00:00.000Z,Ashgrove Bet,UK,Email,Manual review queue backing up this week,S3 - Medium,20.5,4,No,2,Operational Backlog Friction
+191,IDC-42546,2026-05-13T00:00:00.000Z,Rivet Play,CA-ON,Phone,Front of licence rejected as invalid image,S3 - Medium,12.6,2,No,2,User Verification Friction
+192,IDC-44195,2026-06-18T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Can the check flag an underage applicant?,S3 - Medium,18.5,2,No,2,Compliance Decision Friction
+193,IDC-43228,2026-05-11T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,"Sudden spike in failed verifications, nothing changed our side",S3 - Medium,26,4,No,2,Platform Reliability Friction
+194,IDC-42495,2026-04-04T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Onboarding new market, what config changes are needed?",S4 - Low,21.7,1,No,1,Integration & Config
+195,IDC-44164,2026-05-30T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,SSN last-4 not matching for valid users,S3 - Medium,17.1,5,No,2,User Verification Friction
+196,IDC-44534,2026-02-13T00:00:00.000Z,Ashgrove Bet,UK,Email,Webhook signature verification failing in staging,S2 - High,22.3,9,Yes,3,Platform Reliability Friction
+197,IDC-42849,2026-04-16T00:00:00.000Z,Rivet Play,CA-ON,Phone,Address normalization rejecting apartment formats,S3 - Medium,41.5,5,No,2,User Verification Friction
+198,IDC-43432,2026-07-14T00:00:00.000Z,Foundry Gaming,US-NJ,Email,ID capture screen freezes on mobile for several users,S2 - High,19.1,6,No,3,User Verification Friction
+199,IDC-43956,2026-05-22T00:00:00.000Z,Marigold Gaming,US-MI,Email,Requesting SOC 2 report for our compliance team,S4 - Low,30.7,3,Yes,1,Account Admin
+200,IDC-44610,2026-07-13T00:00:00.000Z,Ashgrove Bet,UK,Portal,"vendors.error on data check, backend did not respond in time",S1 - Critical,13.3,12,No,4,Platform Reliability Friction
+201,IDC-42903,2026-06-19T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,15.1,4,No,2,User Verification Friction
+202,IDC-44437,2026-07-20T00:00:00.000Z,Ashgrove Bet,UK,Phone,Passport read failing for a batch of users,S3 - Medium,37.7,6,No,2,User Verification Friction
+203,IDC-44706,2026-06-29T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,"OTP channel timeout error, must be integer 15-900",S3 - Medium,14.7,5,No,2,User Verification Friction
+204,IDC-43075,2026-04-20T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Multiple users failing data verification, provider looks slow",S1 - Critical,3.9,11,No,4,Platform Reliability Friction
+205,IDC-44687,2026-03-13T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Onboarding new market, what config changes are needed?",S4 - Low,35.5,1,No,1,Integration & Config
+206,IDC-42164,2026-05-27T00:00:00.000Z,Rivet Play,CA-ON,Email,Duplicate verification sessions created for one user,S3 - Medium,36.6,6,Yes,2,User Verification Friction
+207,IDC-43969,2026-07-04T00:00:00.000Z,Marigold Gaming,US-MI,Email,"OTP channel timeout error, must be integer 15-900",S1 - Critical,11.6,10,No,4,User Verification Friction
+208,IDC-43652,2026-06-07T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,32.6,5,No,2,User Verification Friction
+209,IDC-42863,2026-04-09T00:00:00.000Z,Rivet Play,CA-ON,Portal,Duplicate verification sessions created for one user,S3 - Medium,25.5,4,No,2,User Verification Friction
+210,IDC-42478,2026-04-25T00:00:00.000Z,Rivet Play,CA-ON,Portal,Manual review queue backing up this week,S3 - Medium,12.6,5,No,2,Operational Backlog Friction
+211,IDC-44003,2026-02-03T00:00:00.000Z,Marigold Gaming,US-MI,Email,Watchlist screening flagged the wrong person,S3 - Medium,29,2,Yes,2,Compliance Decision Friction
+212,IDC-44652,2026-07-13T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Can the check flag an underage applicant?,S3 - Medium,38.5,3,No,2,Compliance Decision Friction
+213,IDC-44386,2026-06-16T00:00:00.000Z,Ashgrove Bet,UK,Portal,Address normalization rejecting apartment formats,S2 - High,18.8,9,No,3,User Verification Friction
+214,IDC-42110,2026-07-12T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,apiKey rejected when sent in the request body,S3 - Medium,13.3,3,No,2,Integration & Config
+215,IDC-43801,2026-03-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,ID capture screen freezes on mobile for several users,S3 - Medium,29.3,6,No,2,User Verification Friction
+216,IDC-43177,2026-04-04T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Set up user access for two new team members,S4 - Low,22.4,3,No,1,Integration & Config
+217,IDC-44492,2026-03-29T00:00:00.000Z,Ashgrove Bet,UK,Portal,Player says they were verified twice and charged twice,S4 - Low,54.9,1,No,1,User Verification Friction
+218,IDC-43643,2026-06-30T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,"Base URL misconfigured, double https in the endpoint",S2 - High,7.2,8,No,3,Integration & Config
+219,IDC-43050,2026-07-16T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,SSN last-4 not matching for valid users,S1 - Critical,2.3,12,No,4,User Verification Friction
+220,IDC-43319,2026-07-16T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"Multiple users failing data verification, provider looks slow",S3 - Medium,33,4,No,2,Platform Reliability Friction
+221,IDC-42999,2026-03-28T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Duplicate verification sessions created for one user,S4 - Low,18,3,No,1,User Verification Friction
+222,IDC-42392,2026-07-20T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,28.4,2,No,2,Compliance Decision Friction
+223,IDC-44905,2026-05-28T00:00:00.000Z,Pinnacle Play,US-CO,Email,Please adjust our scheduled report frequency,S4 - Low,42.5,1,No,1,Account Admin
+224,IDC-42648,2026-05-16T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S4 - Low,22.5,2,No,1,Account Admin
+225,IDC-44909,2026-03-24T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Passport read failing for a batch of users,S2 - High,24.4,7,No,3,User Verification Friction
+226,IDC-42007,2026-07-20T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,apiKey rejected when sent in the request body,S3 - Medium,27.3,2,No,2,Integration & Config
+227,IDC-44069,2026-04-24T00:00:00.000Z,Marigold Gaming,US-MI,Phone,Selfie step blank on Android Chrome,S3 - Medium,12.5,3,No,2,User Verification Friction
+228,IDC-42041,2026-05-01T00:00:00.000Z,Rivet Play,CA-ON,Phone,Manual review queue backing up this week,S3 - Medium,17.3,2,No,2,Operational Backlog Friction
+229,IDC-43479,2026-06-20T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"Sanctions hit looks like a false positive, please review",S3 - Medium,32.1,5,No,2,Compliance Decision Friction
+230,IDC-42441,2026-05-09T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,15.8,2,No,2,User Verification Friction
+231,IDC-44751,2026-04-11T00:00:00.000Z,Pinnacle Play,US-CO,Email,How do we clear stuck review cases?,S2 - High,7.4,9,No,3,Operational Backlog Friction
+232,IDC-44103,2026-06-21T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Too many users routed to step-up this week,S3 - Medium,32.5,3,No,2,User Verification Friction
+233,IDC-43029,2026-05-17T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Full 9-digit SSN check failing after config change,S4 - Low,42.6,1,No,1,User Verification Friction
+234,IDC-42166,2026-03-13T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S4 - Low,64,3,No,1,Account Admin
+235,IDC-43766,2026-04-16T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Sudden spike in failed verifications, nothing changed our side",S3 - Medium,40.9,5,No,2,Platform Reliability Friction
+236,IDC-44793,2026-06-03T00:00:00.000Z,Pinnacle Play,US-CO,Portal,SSN last-4 not matching for valid users,S3 - Medium,18.7,2,Yes,2,User Verification Friction
+237,IDC-42037,2026-03-10T00:00:00.000Z,Rivet Play,CA-ON,Email,Callback not received after verification completes,S3 - Medium,13.5,3,No,2,Platform Reliability Friction
+238,IDC-43460,2026-06-09T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,12.6,2,No,2,User Verification Friction
+239,IDC-44226,2026-07-14T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Question about the data retention period,S3 - Medium,25.2,2,No,2,Account Admin
+240,IDC-42216,2026-04-27T00:00:00.000Z,Rivet Play,CA-ON,Portal,apiKey rejected when sent in the request body,S2 - High,12.1,8,No,3,Integration & Config
+241,IDC-43851,2026-04-15T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Sudden spike in failed verifications, nothing changed our side",S2 - High,15.5,4,No,3,Platform Reliability Friction
+242,IDC-44786,2026-03-13T00:00:00.000Z,Pinnacle Play,US-CO,Phone,"Review decision pending for 48h+, players waiting",S3 - Medium,22.3,4,No,2,Operational Backlog Friction
+243,IDC-44011,2026-04-19T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Pass rate dropped sharply this week, is a data provider down?",S1 - Critical,3.1,7,No,4,Platform Reliability Friction
+244,IDC-43998,2026-02-25T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Please add our new brand to the account,S3 - Medium,19.5,3,No,2,Integration & Config
+245,IDC-43841,2026-04-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Upstream data check returning gateway errors since Monday,S1 - Critical,6.9,11,No,4,Platform Reliability Friction
+246,IDC-42742,2026-05-16T00:00:00.000Z,Rivet Play,CA-ON,Phone,Requesting SOC 2 report for our compliance team,S4 - Low,56.3,3,No,1,Account Admin
+247,IDC-42755,2026-05-16T00:00:00.000Z,Rivet Play,CA-ON,Portal,Set up user access for two new team members,S3 - Medium,12,5,No,2,Integration & Config
+248,IDC-43982,2026-07-07T00:00:00.000Z,Marigold Gaming,US-MI,Email,Selfie step blank on Android Chrome,S2 - High,24.9,8,No,3,User Verification Friction
+249,IDC-43679,2026-04-08T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Upstream data check returning gateway errors since Monday,S2 - High,12.4,4,No,3,Platform Reliability Friction
+250,IDC-42842,2026-05-08T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S4 - Low,28.3,2,No,1,Account Admin
+251,IDC-42518,2026-05-07T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S3 - Medium,26.4,3,No,2,Account Admin
+252,IDC-43021,2026-05-26T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Invoice query forwarded from finance,S4 - Low,35.6,3,No,1,Account Admin
+253,IDC-44631,2026-04-09T00:00:00.000Z,Ashgrove Bet,UK,Phone,IDPV outcome differs across document types,S2 - High,20.1,9,No,3,Compliance Decision Friction
+254,IDC-43199,2026-04-08T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Requesting SOC 2 report for our compliance team,S4 - Low,44.5,1,No,1,Account Admin
+255,IDC-44064,2026-03-07T00:00:00.000Z,Marigold Gaming,US-MI,Email,apiKey rejected when sent in the request body,S3 - Medium,23.8,2,No,2,Integration & Config
+256,IDC-42213,2026-03-15T00:00:00.000Z,Rivet Play,CA-ON,Email,Can the check flag an underage applicant?,S3 - Medium,38.4,3,No,2,Compliance Decision Friction
+257,IDC-43261,2026-02-14T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Watchlist screening flagged the wrong person,S3 - Medium,22.1,3,No,2,Compliance Decision Friction
+258,IDC-42950,2026-06-11T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,30,4,No,2,User Verification Friction
+259,IDC-43618,2026-03-01T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Step-up auth triggering for returning players,S3 - Medium,20.1,3,No,2,User Verification Friction
+260,IDC-43235,2026-05-05T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,12.8,2,No,2,Compliance Decision Friction
+261,IDC-44922,2026-02-12T00:00:00.000Z,Pinnacle Play,US-CO,Email,Requesting SOC 2 report for our compliance team,S4 - Low,24.4,1,No,1,Account Admin
+262,IDC-43986,2026-06-05T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Duplicate verification sessions created for one user,S3 - Medium,26.9,2,No,2,User Verification Friction
+263,IDC-44037,2026-04-23T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Token creation request returning 401,S3 - Medium,19.6,3,No,2,Integration & Config
+264,IDC-44255,2026-04-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"vendors.error on data check, backend did not respond in time",S2 - High,23.2,5,No,3,Platform Reliability Friction
+265,IDC-43850,2026-06-23T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,IP allowlisting request for a new environment,S2 - High,21.4,9,No,3,Integration & Config
+266,IDC-43126,2026-07-02T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Please add our new brand to the account,S3 - Medium,33.4,5,Yes,2,Integration & Config
+267,IDC-43922,2026-07-03T00:00:00.000Z,Marigold Gaming,US-MI,Email,Requesting SOC 2 report for our compliance team,S4 - Low,47.9,1,No,1,Account Admin
+268,IDC-44272,2026-03-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Manual review queue backing up this week,S3 - Medium,34.7,6,No,2,Operational Backlog Friction
+269,IDC-44700,2026-06-04T00:00:00.000Z,Pinnacle Play,US-CO,Email,Token creation request returning 401,S4 - Low,59.5,2,No,1,Integration & Config
+270,IDC-42627,2026-05-14T00:00:00.000Z,Rivet Play,CA-ON,Email,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,42.7,6,No,2,User Verification Friction
+271,IDC-43469,2026-07-19T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Player passed data check but failed secondary auth,S4 - Low,14.1,1,No,1,User Verification Friction
+272,IDC-43401,2026-04-12T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,37,3,No,2,Platform Reliability Friction
+273,IDC-43775,2026-03-15T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Duplicate verification sessions created for one user,S3 - Medium,20.2,2,No,2,User Verification Friction
+274,IDC-44197,2026-07-06T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Can the check flag an underage applicant?,S3 - Medium,11.7,4,No,2,Compliance Decision Friction
+275,IDC-44554,2026-03-06T00:00:00.000Z,Ashgrove Bet,UK,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,12.9,4,No,2,User Verification Friction
+276,IDC-44891,2026-04-13T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,43.1,2,No,2,Compliance Decision Friction
+277,IDC-43064,2026-04-14T00:00:00.000Z,Tidewater Casino,US-NJ,Email,How do we clear stuck review cases?,S3 - Medium,17.6,5,No,2,Operational Backlog Friction
+278,IDC-44135,2026-04-14T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Please adjust our scheduled report frequency,S4 - Low,61.8,3,No,1,Account Admin
+279,IDC-43552,2026-05-29T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,26.3,6,No,2,User Verification Friction
+280,IDC-42411,2026-02-07T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S4 - Low,40.8,1,No,1,Account Admin
+281,IDC-44627,2026-03-06T00:00:00.000Z,Ashgrove Bet,UK,Portal,"PO Box treated as invalid, several player complaints",S3 - Medium,21.4,2,No,2,User Verification Friction
+282,IDC-42809,2026-05-09T00:00:00.000Z,Rivet Play,CA-ON,Phone,ID capture screen freezes on mobile for several users,S2 - High,24.7,8,Yes,3,User Verification Friction
+283,IDC-44919,2026-04-14T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Invoice query forwarded from finance,S4 - Low,50.5,1,No,1,Account Admin
+284,IDC-44619,2026-04-04T00:00:00.000Z,Ashgrove Bet,UK,Phone,How do we clear stuck review cases?,S3 - Medium,26.5,4,No,2,Operational Backlog Friction
+285,IDC-43410,2026-05-25T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S2 - High,19.5,5,No,3,User Verification Friction
+286,IDC-43915,2026-07-08T00:00:00.000Z,Marigold Gaming,US-MI,Email,Request: export of last month's verification volumes,S4 - Low,23.4,1,No,1,Account Admin
+287,IDC-43156,2026-04-02T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Duplicate verification sessions created for one user,S3 - Medium,41.1,2,No,2,User Verification Friction
+288,IDC-43163,2026-06-01T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,37.8,2,No,2,User Verification Friction
+289,IDC-43074,2026-02-19T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Question about the data retention period,S4 - Low,47.9,1,No,1,Account Admin
+290,IDC-42920,2026-03-11T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"CfA failing, what does phone_not_baselined mean?",S2 - High,24.8,8,No,3,Platform Reliability Friction
+291,IDC-43465,2026-07-31T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Can the check flag an underage applicant?,S3 - Medium,44,5,No,2,Compliance Decision Friction
+292,IDC-43253,2026-05-08T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Watchlist screening flagged the wrong person,S3 - Medium,26.3,5,No,2,Compliance Decision Friction
+293,IDC-43290,2026-04-11T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"PO Box treated as invalid, several player complaints",S1 - Critical,4.9,7,No,4,User Verification Friction
+294,IDC-42935,2026-07-16T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,apiKey rejected when sent in the request body,S2 - High,12.3,8,No,3,Integration & Config
+295,IDC-44317,2026-04-11T00:00:00.000Z,Selkirk Interactive,US-AZ,Phone,Player says they were verified twice and charged twice,S3 - Medium,35.5,4,No,2,User Verification Friction
+296,IDC-44169,2026-03-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Too many users routed to step-up this week,S3 - Medium,16.2,3,No,2,User Verification Friction
+297,IDC-44879,2026-07-28T00:00:00.000Z,Pinnacle Play,US-CO,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,39.7,3,No,2,User Verification Friction
+298,IDC-44842,2026-04-05T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Question about the data retention period,S3 - Medium,33.8,3,No,2,Account Admin
+299,IDC-43860,2026-05-22T00:00:00.000Z,Marigold Gaming,US-MI,Phone,Please adjust our scheduled report frequency,S3 - Medium,28.3,3,No,2,Account Admin
+300,IDC-43568,2026-03-26T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"Review decision pending for 48h+, players waiting",S3 - Medium,26.4,3,No,2,Operational Backlog Friction
+301,IDC-42924,2026-07-17T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,SSN last-4 not matching for valid users,S3 - Medium,40.7,6,No,2,User Verification Friction
+302,IDC-43819,2026-07-01T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Image capture loops, QR code keeps reloading on handoff",S4 - Low,21.2,3,Yes,1,User Verification Friction
+303,IDC-44609,2026-03-16T00:00:00.000Z,Ashgrove Bet,UK,Portal,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,15.4,4,No,2,Compliance Decision Friction
+304,IDC-42855,2026-03-04T00:00:00.000Z,Rivet Play,CA-ON,Portal,Token creation request returning 401,S4 - Low,37.7,3,No,1,Integration & Config
+305,IDC-42010,2026-04-18T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,29.1,4,No,2,User Verification Friction
+306,IDC-43726,2026-04-28T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Full 9-digit SSN check failing after config change,S3 - Medium,20.9,2,No,2,User Verification Friction
+307,IDC-42770,2026-04-20T00:00:00.000Z,Rivet Play,CA-ON,Phone,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,21.6,3,No,2,Platform Reliability Friction
+308,IDC-42144,2026-06-19T00:00:00.000Z,Rivet Play,CA-ON,Email,"CfA failing, what does phone_not_baselined mean?",S2 - High,11.3,9,No,3,Platform Reliability Friction
+309,IDC-42763,2026-06-06T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,33.7,1,No,1,Account Admin
+310,IDC-42482,2026-04-29T00:00:00.000Z,Rivet Play,CA-ON,Portal,Date of birth validation rejecting valid 1999 dates,S4 - Low,39.7,2,No,1,User Verification Friction
+311,IDC-42135,2026-03-27T00:00:00.000Z,Rivet Play,CA-ON,Portal,Player passed data check but failed secondary auth,S2 - High,21.2,8,No,3,User Verification Friction
+312,IDC-44481,2026-04-03T00:00:00.000Z,Ashgrove Bet,UK,Email,Webhook signature verification failing in staging,S3 - Medium,25.1,3,No,2,Platform Reliability Friction
+313,IDC-42805,2026-05-30T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,How do we clear stuck review cases?,S2 - High,6.8,6,No,3,Operational Backlog Friction
+314,IDC-42129,2026-07-31T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S3 - Medium,12.7,5,No,2,Account Admin
+315,IDC-44591,2026-04-23T00:00:00.000Z,Ashgrove Bet,UK,Email,ID capture screen freezes on mobile for several users,S2 - High,23.6,7,No,3,User Verification Friction
+316,IDC-43537,2026-05-14T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Can we suppress PEP alerts for our US-only brand?,S2 - High,24.6,9,No,3,Compliance Decision Friction
+317,IDC-44004,2026-05-18T00:00:00.000Z,Marigold Gaming,US-MI,Email,Front of licence rejected as invalid image,S4 - Low,16.7,3,Yes,1,User Verification Friction
+318,IDC-44050,2026-05-17T00:00:00.000Z,Marigold Gaming,US-MI,Phone,Question about the data retention period,S3 - Medium,12,4,Yes,2,Account Admin
+319,IDC-42975,2026-05-05T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Requesting SOC 2 report for our compliance team,S4 - Low,42.1,3,No,1,Account Admin
+320,IDC-44819,2026-04-30T00:00:00.000Z,Pinnacle Play,US-CO,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,10.9,3,No,2,User Verification Friction
+321,IDC-42288,2026-04-14T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S4 - Low,63.9,3,No,1,Account Admin
+322,IDC-42828,2026-02-09T00:00:00.000Z,Rivet Play,CA-ON,Portal,IP allowlisting request for a new environment,S2 - High,10.8,8,No,3,Integration & Config
+323,IDC-42069,2026-06-27T00:00:00.000Z,Rivet Play,CA-ON,Email,"Review decision pending for 48h+, players waiting",S1 - Critical,4,11,No,4,Operational Backlog Friction
+324,IDC-42806,2026-06-09T00:00:00.000Z,Rivet Play,CA-ON,Portal,Callback not received after verification completes,S2 - High,26,6,No,3,Platform Reliability Friction
+325,IDC-43486,2026-03-20T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,39.3,5,No,2,Compliance Decision Friction
+326,IDC-43372,2026-07-20T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,27.7,6,No,2,Platform Reliability Friction
+327,IDC-43147,2026-07-30T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S4 - Low,36.2,2,No,1,Platform Reliability Friction
+328,IDC-44379,2026-04-07T00:00:00.000Z,Ashgrove Bet,UK,Email,"OTP channel timeout error, must be integer 15-900",S2 - High,14.7,7,No,3,User Verification Friction
+329,IDC-43864,2026-06-03T00:00:00.000Z,Marigold Gaming,US-MI,Email,Too many users routed to step-up this week,S3 - Medium,16.8,5,No,2,User Verification Friction
+330,IDC-42588,2026-04-03T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Question about the data retention period,S4 - Low,55.9,2,No,1,Account Admin
+331,IDC-42253,2026-02-18T00:00:00.000Z,Rivet Play,CA-ON,Portal,Question about the data retention period,S4 - Low,34.9,1,No,1,Account Admin
+332,IDC-43656,2026-04-07T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Sudden spike in failed verifications, nothing changed our side",S3 - Medium,14.5,4,No,2,Platform Reliability Friction
+333,IDC-44505,2026-07-31T00:00:00.000Z,Ashgrove Bet,UK,Email,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,24.5,5,No,3,Platform Reliability Friction
+334,IDC-43044,2026-03-26T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Invoice query forwarded from finance,S4 - Low,35.6,3,No,1,Account Admin
+335,IDC-43904,2026-07-26T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Sanctions hit looks like a false positive, please review",S2 - High,21.5,5,No,3,Compliance Decision Friction
+336,IDC-44326,2026-04-05T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Can the check flag an underage applicant?,S3 - Medium,41.5,3,No,2,Compliance Decision Friction
+337,IDC-42902,2026-04-11T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Callback not received after verification completes,S3 - Medium,38.2,4,No,2,Platform Reliability Friction
+338,IDC-42889,2026-05-08T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"Onboarding new market, what config changes are needed?",S4 - Low,25.7,3,No,1,Integration & Config
+339,IDC-43303,2026-05-08T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"Sanctions hit looks like a false positive, please review",S2 - High,13.7,8,No,3,Compliance Decision Friction
+340,IDC-44130,2026-06-06T00:00:00.000Z,Selkirk Interactive,US-AZ,Phone,"OTP channel timeout error, must be integer 15-900",S4 - Low,66.8,3,No,1,User Verification Friction
+341,IDC-42788,2026-04-26T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Token creation request returning 401,S3 - Medium,14.7,5,No,2,Integration & Config
+342,IDC-43636,2026-04-30T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,How do we clear stuck review cases?,S3 - Medium,11.2,6,No,2,Operational Backlog Friction
+343,IDC-43852,2026-04-14T00:00:00.000Z,Marigold Gaming,US-MI,Email,Verification failing with provider timeout (504),S2 - High,13.6,9,No,3,Platform Reliability Friction
+344,IDC-42152,2026-02-23T00:00:00.000Z,Rivet Play,CA-ON,Email,ID capture screen freezes on mobile for several users,S3 - Medium,36.5,6,No,2,User Verification Friction
+345,IDC-43474,2026-06-11T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,22.2,2,No,2,Platform Reliability Friction
+346,IDC-43631,2026-02-09T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,30.7,5,No,2,User Verification Friction
+347,IDC-42116,2026-04-02T00:00:00.000Z,Rivet Play,CA-ON,Email,Date of birth validation rejecting valid 1999 dates,S2 - High,26,7,No,3,User Verification Friction
+348,IDC-43564,2026-07-15T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Watchlist screening flagged the wrong person,S2 - High,19.7,5,No,3,Compliance Decision Friction
+349,IDC-42338,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,ID capture screen freezes on mobile for several users,S4 - Low,52.9,1,No,1,User Verification Friction
+350,IDC-42870,2026-08-01T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,ID capture screen freezes on mobile for several users,S3 - Medium,40.8,2,Yes,2,User Verification Friction
+351,IDC-44251,2026-02-09T00:00:00.000Z,Selkirk Interactive,US-AZ,Phone,Duplicate verification sessions created for one user,S3 - Medium,42.6,2,No,2,User Verification Friction
+352,IDC-44746,2026-03-04T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Full 9-digit SSN check failing after config change,S3 - Medium,30,3,No,2,User Verification Friction
+353,IDC-43535,2026-03-07T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Too many users routed to step-up this week,S2 - High,6,9,No,3,User Verification Friction
+354,IDC-42140,2026-03-18T00:00:00.000Z,Rivet Play,CA-ON,Phone,Can the check flag an underage applicant?,S3 - Medium,42.2,4,No,2,Compliance Decision Friction
+355,IDC-42430,2026-03-02T00:00:00.000Z,Rivet Play,CA-ON,Email,Full 9-digit SSN check failing after config change,S2 - High,23.8,8,No,3,User Verification Friction
+356,IDC-43083,2026-07-16T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Request: export of last month's verification volumes,S4 - Low,18.8,2,No,1,Account Admin
+357,IDC-44043,2026-05-01T00:00:00.000Z,Marigold Gaming,US-MI,Email,Player says they were verified twice and charged twice,S3 - Medium,24.4,3,No,2,User Verification Friction
+358,IDC-42025,2026-05-24T00:00:00.000Z,Rivet Play,CA-ON,Email,Requesting SOC 2 report for our compliance team,S4 - Low,18.3,2,No,1,Account Admin
+359,IDC-43019,2026-03-28T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Player passed data check but failed secondary auth,S4 - Low,14.5,2,No,1,User Verification Friction
+360,IDC-43505,2026-05-07T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Too many users routed to step-up this week,S3 - Medium,26.6,2,No,2,User Verification Friction
+361,IDC-43646,2026-06-09T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Can the check flag an underage applicant?,S3 - Medium,19.9,2,No,2,Compliance Decision Friction
+362,IDC-43892,2026-04-07T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Date of birth validation rejecting valid 1999 dates,S4 - Low,58.3,1,No,1,User Verification Friction
+363,IDC-44199,2026-02-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Webhook signature verification failing in staging,S2 - High,24.4,4,Yes,3,Platform Reliability Friction
+364,IDC-42131,2026-05-22T00:00:00.000Z,Rivet Play,CA-ON,Portal,Upload succeeds but result says image invalid,S3 - Medium,22.8,2,No,2,User Verification Friction
+365,IDC-44895,2026-07-16T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Inaccurate PEP alert on an obviously low-risk player,S2 - High,12.7,9,No,3,Compliance Decision Friction
+366,IDC-42702,2026-02-02T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Player says they were verified twice and charged twice,S3 - Medium,29.7,2,No,2,User Verification Friction
+367,IDC-44646,2026-06-18T00:00:00.000Z,Ashgrove Bet,UK,Email,SSN last-4 not matching for valid users,S2 - High,19.6,5,No,3,User Verification Friction
+368,IDC-44434,2026-03-19T00:00:00.000Z,Ashgrove Bet,UK,Email,Callback not received after verification completes,S2 - High,12.6,9,No,3,Platform Reliability Friction
+369,IDC-43553,2026-05-26T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S2 - High,16.3,5,No,3,Compliance Decision Friction
+370,IDC-42321,2026-02-22T00:00:00.000Z,Rivet Play,CA-ON,Portal,Front of licence rejected as invalid image,S3 - Medium,19.2,3,No,2,User Verification Friction
+371,IDC-43937,2026-02-16T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Onboarding new market, what config changes are needed?",S3 - Medium,22.7,2,No,2,Integration & Config
+372,IDC-44073,2026-07-23T00:00:00.000Z,Marigold Gaming,US-MI,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,39.3,5,No,2,User Verification Friction
+373,IDC-44332,2026-07-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,"Sanctions hit looks like a false positive, please review",S1 - Critical,10.8,9,No,4,Compliance Decision Friction
+374,IDC-43388,2026-04-02T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Can we suppress PEP alerts for our US-only brand?,S2 - High,24.2,8,No,3,Compliance Decision Friction
+375,IDC-43681,2026-02-25T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Watchlist screening flagged the wrong person,S3 - Medium,42.9,2,No,2,Compliance Decision Friction
+376,IDC-42470,2026-02-24T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S4 - Low,63.7,3,No,1,Account Admin
+377,IDC-42359,2026-02-15T00:00:00.000Z,Rivet Play,CA-ON,Email,Partial match returns no data on first attempt,S3 - Medium,10.2,4,No,2,User Verification Friction
+378,IDC-44407,2026-07-02T00:00:00.000Z,Ashgrove Bet,UK,Phone,Duplicate verification sessions created for one user,S3 - Medium,21.9,3,No,2,User Verification Friction
+379,IDC-44208,2026-07-17T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Webhook signature verification failing in staging,S3 - Medium,42.9,2,No,2,Platform Reliability Friction
+380,IDC-43331,2026-04-02T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Manual review queue backing up this week,S4 - Low,27.8,2,Yes,1,Operational Backlog Friction
+381,IDC-44611,2026-02-16T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Player says they were verified twice and charged twice,S3 - Medium,19.9,4,No,2,User Verification Friction
+382,IDC-43650,2026-05-08T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Can the check flag an underage applicant?,S3 - Medium,17,3,No,2,Compliance Decision Friction
+383,IDC-43510,2026-05-11T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Base URL misconfigured, double https in the endpoint",S3 - Medium,40.4,4,No,2,Integration & Config
+384,IDC-42900,2026-02-03T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Pass rate dropped sharply this week, is a data provider down?",S1 - Critical,5.1,6,Yes,4,Platform Reliability Friction
+385,IDC-44533,2026-06-24T00:00:00.000Z,Ashgrove Bet,UK,Portal,"Sudden spike in failed verifications, nothing changed our side",S3 - Medium,41.4,3,No,2,Platform Reliability Friction
+386,IDC-44399,2026-03-20T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Step-up auth triggering for returning players,S2 - High,17,8,No,3,User Verification Friction
+387,IDC-43599,2026-02-03T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Watchlist screening flagged the wrong person,S2 - High,9.1,7,No,3,Compliance Decision Friction
+388,IDC-43017,2026-07-01T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,"vendors.error on data check, backend did not respond in time",S1 - Critical,12.5,11,No,4,Platform Reliability Friction
+389,IDC-42876,2026-07-31T00:00:00.000Z,Rivet Play,CA-ON,Email,IDPV outcome differs across document types,S2 - High,13,6,No,3,Compliance Decision Friction
+390,IDC-44712,2026-04-04T00:00:00.000Z,Pinnacle Play,US-CO,Portal,"Pass rate dropped sharply this week, is a data provider down?",S3 - Medium,10.1,5,No,2,Platform Reliability Friction
+391,IDC-44815,2026-03-27T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Duplicate verification sessions created for one user,S2 - High,21.2,6,No,3,User Verification Friction
+392,IDC-43232,2026-07-10T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Too many users routed to step-up this week,S4 - Low,59.2,2,No,1,User Verification Friction
+393,IDC-42962,2026-05-02T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Inaccurate PEP alert on an obviously low-risk player,S2 - High,9.6,6,No,3,Compliance Decision Friction
+394,IDC-43952,2026-03-30T00:00:00.000Z,Marigold Gaming,US-MI,Email,Date of birth validation rejecting valid 1999 dates,S1 - Critical,8.2,12,No,4,User Verification Friction
+395,IDC-43975,2026-06-03T00:00:00.000Z,Marigold Gaming,US-MI,Email,How do we clear stuck review cases?,S3 - Medium,34.7,4,No,2,Operational Backlog Friction
+396,IDC-44114,2026-07-28T00:00:00.000Z,Marigold Gaming,US-MI,Email,Zip code mismatch on addresses we believe are valid,S2 - High,22.2,5,No,3,User Verification Friction
+397,IDC-43551,2026-06-03T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,43.1,6,No,2,Compliance Decision Friction
+398,IDC-43215,2026-02-05T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Player passed data check but failed secondary auth,S4 - Low,50,1,No,1,User Verification Friction
+399,IDC-43595,2026-04-30T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Player passed data check but failed secondary auth,S3 - Medium,26.8,6,No,2,User Verification Friction
+400,IDC-44371,2026-07-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,ID capture screen freezes on mobile for several users,S2 - High,26,7,No,3,User Verification Friction
+401,IDC-44468,2026-07-01T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Player says they were verified twice and charged twice,S3 - Medium,26.2,6,No,2,User Verification Friction
+402,IDC-42093,2026-07-19T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S3 - Medium,9.2,5,No,2,Integration & Config
+403,IDC-42896,2026-04-14T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"Review decision pending for 48h+, players waiting",S3 - Medium,39.7,2,No,2,Operational Backlog Friction
+404,IDC-42592,2026-04-13T00:00:00.000Z,Rivet Play,CA-ON,Email,Passport read failing for a batch of users,S2 - High,24.1,5,Yes,3,User Verification Friction
+405,IDC-44562,2026-03-05T00:00:00.000Z,Ashgrove Bet,UK,Portal,Token creation request returning 401,S2 - High,6.7,8,No,3,Integration & Config
+406,IDC-42082,2026-06-15T00:00:00.000Z,Rivet Play,CA-ON,Portal,Question about the data retention period,S3 - Medium,29.3,4,No,2,Account Admin
+407,IDC-42827,2026-04-22T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Requesting SOC 2 report for our compliance team,S3 - Medium,23.4,5,Yes,2,Account Admin
+408,IDC-44632,2026-03-17T00:00:00.000Z,Ashgrove Bet,UK,Email,Token creation request returning 401,S2 - High,21.6,7,No,3,Integration & Config
+409,IDC-42562,2026-03-13T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Webhook signature verification failing in staging,S4 - Low,37.6,3,No,1,Platform Reliability Friction
+410,IDC-44755,2026-02-07T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Set up user access for two new team members,S4 - Low,58.1,1,No,1,Integration & Config
+411,IDC-44900,2026-04-23T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Please adjust our scheduled report frequency,S4 - Low,40.1,2,No,1,Account Admin
+412,IDC-44171,2026-04-10T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,38.2,3,No,2,Compliance Decision Friction
+413,IDC-44674,2026-04-22T00:00:00.000Z,Pinnacle Play,US-CO,Email,Player passed data check but failed secondary auth,S2 - High,7.2,7,No,3,User Verification Friction
+414,IDC-42345,2026-03-24T00:00:00.000Z,Rivet Play,CA-ON,Email,Duplicate verification sessions created for one user,S3 - Medium,37.9,2,No,2,User Verification Friction
+415,IDC-44323,2026-02-05T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"Review decision pending for 48h+, players waiting",S2 - High,13.2,7,No,3,Operational Backlog Friction
+416,IDC-43346,2026-07-07T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,43.3,3,No,2,User Verification Friction
+417,IDC-42795,2026-04-11T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,5.5,8,No,3,Platform Reliability Friction
+418,IDC-44026,2026-07-13T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,IDPV outcome differs across document types,S2 - High,16.2,4,No,3,Compliance Decision Friction
+419,IDC-42477,2026-03-08T00:00:00.000Z,Rivet Play,CA-ON,Email,Webhook signature verification failing in staging,S1 - Critical,3.7,7,No,4,Platform Reliability Friction
+420,IDC-43908,2026-07-17T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Review decision pending for 48h+, players waiting",S2 - High,9.1,9,No,3,Operational Backlog Friction
+421,IDC-44403,2026-03-18T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,"Sudden spike in failed verifications, nothing changed our side",S1 - Critical,6.1,8,No,4,Platform Reliability Friction
+422,IDC-44178,2026-04-08T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"Review decision pending for 48h+, players waiting",S3 - Medium,28.3,2,No,2,Operational Backlog Friction
+423,IDC-43032,2026-03-14T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Question about the data retention period,S3 - Medium,24,3,No,2,Account Admin
+424,IDC-44456,2026-03-20T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,apiKey rejected when sent in the request body,S3 - Medium,36,4,No,2,Integration & Config
+425,IDC-44020,2026-05-01T00:00:00.000Z,Marigold Gaming,US-MI,Email,Player says they were verified twice and charged twice,S2 - High,18.5,6,No,3,User Verification Friction
+426,IDC-43880,2026-07-18T00:00:00.000Z,Marigold Gaming,US-MI,Email,Invoice query forwarded from finance,S4 - Low,61.6,3,No,1,Account Admin
+427,IDC-43828,2026-03-24T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Watchlist screening flagged the wrong person,S2 - High,8.1,5,No,3,Compliance Decision Friction
+428,IDC-43342,2026-05-22T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Date of birth validation rejecting valid 1999 dates,S4 - Low,19.8,2,No,1,User Verification Friction
+429,IDC-42272,2026-03-26T00:00:00.000Z,Rivet Play,CA-ON,Portal,Upstream data check returning gateway errors since Monday,S2 - High,23.7,4,No,3,Platform Reliability Friction
+430,IDC-44205,2026-02-04T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Can the check flag an underage applicant?,S3 - Medium,21.3,6,No,2,Compliance Decision Friction
+431,IDC-42787,2026-04-06T00:00:00.000Z,Rivet Play,CA-ON,Email,SSN last-4 not matching for valid users,S1 - Critical,3,6,No,4,User Verification Friction
+432,IDC-42493,2026-06-30T00:00:00.000Z,Rivet Play,CA-ON,Email,Passport read failing for a batch of users,S4 - Low,39.6,3,No,1,User Verification Friction
+433,IDC-44515,2026-02-21T00:00:00.000Z,Ashgrove Bet,UK,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,39.6,5,No,2,Compliance Decision Friction
+434,IDC-42618,2026-02-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S4 - Low,48.5,1,Yes,1,Integration & Config
+435,IDC-44495,2026-07-04T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Manual review queue backing up this week,S3 - Medium,28.8,6,No,2,Operational Backlog Friction
+436,IDC-43711,2026-06-29T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,15,3,No,2,User Verification Friction
+437,IDC-43590,2026-03-19T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Invoice query forwarded from finance,S4 - Low,38,3,No,1,Account Admin
+438,IDC-43960,2026-07-28T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,39.5,5,No,2,Compliance Decision Friction
+439,IDC-42807,2026-04-01T00:00:00.000Z,Rivet Play,CA-ON,Portal,Full 9-digit SSN check failing after config change,S3 - Medium,35.1,5,Yes,2,User Verification Friction
+440,IDC-43181,2026-04-17T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,33.6,6,No,2,User Verification Friction
+441,IDC-44181,2026-07-29T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Can the check flag an underage applicant?,S2 - High,21.9,5,No,3,Compliance Decision Friction
+442,IDC-42450,2026-02-09T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Manual review queue backing up this week,S3 - Medium,17.2,5,No,2,Operational Backlog Friction
+443,IDC-44085,2026-02-19T00:00:00.000Z,Marigold Gaming,US-MI,Email,Partial match returns no data on first attempt,S3 - Medium,27.6,2,No,2,User Verification Friction
+444,IDC-43713,2026-05-07T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Date of birth validation rejecting valid 1999 dates,S4 - Low,34.7,3,No,1,User Verification Friction
+445,IDC-42193,2026-03-19T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,35.6,3,No,2,Compliance Decision Friction
+446,IDC-43627,2026-02-08T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"CfA failing, what does phone_not_baselined mean?",S4 - Low,27,3,No,1,Platform Reliability Friction
+447,IDC-44330,2026-06-03T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,"Review decision pending for 48h+, players waiting",S4 - Low,52.4,3,No,1,Operational Backlog Friction
+448,IDC-43069,2026-07-31T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"CfA failing, what does phone_not_baselined mean?",S4 - Low,54.6,2,No,1,Platform Reliability Friction
+449,IDC-42978,2026-07-17T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,13.5,4,No,2,Platform Reliability Friction
+450,IDC-43746,2026-02-14T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Player says they were verified twice and charged twice,S3 - Medium,30.6,4,No,2,User Verification Friction
+451,IDC-43666,2026-06-03T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Date of birth validation rejecting valid 1999 dates,S2 - High,24.9,9,No,3,User Verification Friction
+452,IDC-44265,2026-05-01T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Question about the data retention period,S3 - Medium,31.2,4,No,2,Account Admin
+453,IDC-42033,2026-06-04T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S4 - Low,46.7,1,No,1,Integration & Config
+454,IDC-44913,2026-07-04T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Partial match returns no data on first attempt,S2 - High,18.5,4,No,3,User Verification Friction
+455,IDC-43739,2026-05-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Player passed data check but failed secondary auth,S3 - Medium,21.1,3,No,2,User Verification Friction
+456,IDC-43168,2026-03-01T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Token creation request returning 401,S3 - Medium,33.5,2,No,2,Integration & Config
+457,IDC-42197,2026-04-19T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Too many users routed to step-up this week,S3 - Medium,26.4,6,No,2,User Verification Friction
+458,IDC-44679,2026-03-14T00:00:00.000Z,Pinnacle Play,US-CO,Portal,apiKey rejected when sent in the request body,S2 - High,7.1,8,No,3,Integration & Config
+459,IDC-44623,2026-06-26T00:00:00.000Z,Ashgrove Bet,UK,Email,Duplicate verification sessions created for one user,S3 - Medium,31.6,3,No,2,User Verification Friction
+460,IDC-42745,2026-08-01T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Selfie step blank on Android Chrome,S2 - High,14.9,4,No,3,User Verification Friction
+461,IDC-44463,2026-02-23T00:00:00.000Z,Ashgrove Bet,UK,Portal,Verification failing with provider timeout (504),S1 - Critical,5.6,7,No,4,Platform Reliability Friction
+462,IDC-42349,2026-06-12T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Multiple users failing data verification, provider looks slow",S2 - High,25.5,5,Yes,3,Platform Reliability Friction
+463,IDC-44067,2026-02-26T00:00:00.000Z,Marigold Gaming,US-MI,Email,Duplicate verification sessions created for one user,S1 - Critical,10.5,10,No,4,User Verification Friction
+464,IDC-42017,2026-03-31T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Zip code mismatch on addresses we believe are valid,S3 - Medium,9.1,6,No,2,User Verification Friction
+465,IDC-42934,2026-06-17T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,10.3,4,Yes,2,User Verification Friction
+466,IDC-42112,2026-05-02T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Manual review queue backing up this week,S3 - Medium,41.1,2,No,2,Operational Backlog Friction
+467,IDC-43698,2026-03-08T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Invoice query forwarded from finance,S4 - Low,54.7,1,No,1,Account Admin
+468,IDC-43947,2026-07-15T00:00:00.000Z,Marigold Gaming,US-MI,Email,Too many users routed to step-up this week,S3 - Medium,25.1,2,Yes,2,User Verification Friction
+469,IDC-42984,2026-02-05T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"Sanctions hit looks like a false positive, please review",S3 - Medium,29.3,6,No,2,Compliance Decision Friction
+470,IDC-43856,2026-07-21T00:00:00.000Z,Marigold Gaming,US-MI,Email,Token creation request returning 401,S4 - Low,55.1,3,No,1,Integration & Config
+471,IDC-42591,2026-06-05T00:00:00.000Z,Rivet Play,CA-ON,Email,Step-up auth triggering for returning players,S3 - Medium,15,6,No,2,User Verification Friction
+472,IDC-42541,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Email,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,39,2,No,2,Compliance Decision Friction
+473,IDC-44053,2026-02-08T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Partial match returns no data on first attempt,S2 - High,13.6,6,No,3,User Verification Friction
+474,IDC-42752,2026-05-18T00:00:00.000Z,Rivet Play,CA-ON,Email,"Sanctions hit looks like a false positive, please review",S2 - High,16.8,5,No,3,Compliance Decision Friction
+475,IDC-43296,2026-04-13T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"Sanctions hit looks like a false positive, please review",S3 - Medium,30,3,No,2,Compliance Decision Friction
+476,IDC-43873,2026-05-16T00:00:00.000Z,Marigold Gaming,US-MI,Email,Question about the data retention period,S4 - Low,29.3,3,No,1,Account Admin
+477,IDC-43112,2026-03-16T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Base URL misconfigured, double https in the endpoint",S3 - Medium,34.7,6,No,2,Integration & Config
+478,IDC-43154,2026-04-29T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Please add our new brand to the account,S4 - Low,69.5,1,Yes,1,Integration & Config
+479,IDC-42003,2026-05-29T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Token creation request returning 401,S4 - Low,41.4,3,No,1,Integration & Config
+480,IDC-42658,2026-05-14T00:00:00.000Z,Rivet Play,CA-ON,Portal,Webhook signature verification failing in staging,S3 - Medium,36.1,6,No,2,Platform Reliability Friction
+481,IDC-42706,2026-06-13T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,55.7,2,No,1,Account Admin
+482,IDC-43106,2026-05-04T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,How do we clear stuck review cases?,S3 - Medium,30.4,5,Yes,2,Operational Backlog Friction
+483,IDC-42422,2026-06-25T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S4 - Low,43.3,3,No,1,Account Admin
+484,IDC-43447,2026-03-17T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Token creation request returning 401,S2 - High,14.8,5,No,3,Integration & Config
+485,IDC-44436,2026-07-21T00:00:00.000Z,Ashgrove Bet,UK,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,27.7,5,No,2,User Verification Friction
+486,IDC-44862,2026-05-19T00:00:00.000Z,Pinnacle Play,US-CO,Email,How do we clear stuck review cases?,S4 - Low,33.7,1,No,1,Operational Backlog Friction
+487,IDC-44212,2026-07-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,42.3,6,No,2,User Verification Friction
+488,IDC-42342,2026-02-09T00:00:00.000Z,Rivet Play,CA-ON,Phone,"Review decision pending for 48h+, players waiting",S4 - Low,53,1,No,1,Operational Backlog Friction
+489,IDC-43657,2026-03-06T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,IP allowlisting request for a new environment,S2 - High,21.2,8,No,3,Integration & Config
+490,IDC-42585,2026-07-05T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S4 - Low,57.6,3,No,1,Integration & Config
+491,IDC-42846,2026-07-30T00:00:00.000Z,Rivet Play,CA-ON,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,38.3,4,No,2,Platform Reliability Friction
+492,IDC-43418,2026-02-21T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Player passed data check but failed secondary auth,S2 - High,22,7,No,3,User Verification Friction
+493,IDC-42127,2026-02-16T00:00:00.000Z,Rivet Play,CA-ON,Portal,Token creation request returning 401,S3 - Medium,10.5,6,No,2,Integration & Config
+494,IDC-44808,2026-07-07T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Onboarding new market, what config changes are needed?",S4 - Low,24.7,2,No,1,Integration & Config
+495,IDC-44146,2026-04-28T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,"CfA failing, what does phone_not_baselined mean?",S2 - High,14.7,6,No,3,Platform Reliability Friction
+496,IDC-43614,2026-02-22T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Step-up auth triggering for returning players,S2 - High,5.1,5,No,3,User Verification Friction
+497,IDC-43189,2026-04-17T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Too many users routed to step-up this week,S4 - Low,41.7,3,No,1,User Verification Friction
+498,IDC-42438,2026-07-15T00:00:00.000Z,Rivet Play,CA-ON,Email,Duplicate verification sessions created for one user,S3 - Medium,35.5,4,No,2,User Verification Friction
+499,IDC-44236,2026-07-27T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,How do we clear stuck review cases?,S3 - Medium,34.5,5,No,2,Operational Backlog Friction
+500,IDC-43776,2026-02-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,SSN last-4 not matching for valid users,S4 - Low,24.6,3,No,1,User Verification Friction
+501,IDC-44280,2026-02-26T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Can we suppress PEP alerts for our US-only brand?,S4 - Low,50.8,1,No,1,Compliance Decision Friction
+502,IDC-42505,2026-03-20T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Upstream data check returning gateway errors since Monday,S2 - High,23.1,6,No,3,Platform Reliability Friction
+503,IDC-43654,2026-03-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Webhook signature verification failing in staging,S2 - High,22,6,No,3,Platform Reliability Friction
+504,IDC-44669,2026-02-18T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Webhook signature verification failing in staging,S3 - Medium,27.3,5,No,2,Platform Reliability Friction
+505,IDC-42520,2026-06-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,61.4,2,Yes,1,Account Admin
+506,IDC-44267,2026-02-17T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Please adjust our scheduled report frequency,S4 - Low,14.7,3,No,1,Account Admin
+507,IDC-44100,2026-06-24T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,"CfA failing, what does phone_not_baselined mean?",S2 - High,23.2,8,No,3,Platform Reliability Friction
+508,IDC-44522,2026-04-15T00:00:00.000Z,Ashgrove Bet,UK,Portal,"Multiple users failing data verification, provider looks slow",S1 - Critical,6.8,6,No,4,Platform Reliability Friction
+509,IDC-44148,2026-07-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Can we suppress PEP alerts for our US-only brand?,S2 - High,5.3,5,No,3,Compliance Decision Friction
+510,IDC-44232,2026-06-14T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,SSN last-4 not matching for valid users,S2 - High,23.4,5,No,3,User Verification Friction
+511,IDC-42836,2026-04-26T00:00:00.000Z,Rivet Play,CA-ON,Email,Can we suppress PEP alerts for our US-only brand?,S2 - High,14.8,6,Yes,3,Compliance Decision Friction
+512,IDC-42117,2026-02-05T00:00:00.000Z,Rivet Play,CA-ON,Email,Front of licence rejected as invalid image,S3 - Medium,27.8,3,Yes,2,User Verification Friction
+513,IDC-42720,2026-05-14T00:00:00.000Z,Rivet Play,CA-ON,Phone,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,41.2,3,No,2,Compliance Decision Friction
+514,IDC-43165,2026-02-12T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Player says they were verified twice and charged twice,S2 - High,5.7,6,No,3,User Verification Friction
+515,IDC-43562,2026-05-20T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Callback not received after verification completes,S4 - Low,41.7,1,No,1,Platform Reliability Friction
+516,IDC-43870,2026-03-20T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Address normalization rejecting apartment formats,S3 - Medium,30.4,2,No,2,User Verification Friction
+517,IDC-44381,2026-05-04T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Zip code mismatch on addresses we believe are valid,S3 - Medium,20.3,6,No,2,User Verification Friction
+518,IDC-43815,2026-02-18T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Inaccurate PEP alert on an obviously low-risk player,S2 - High,10.2,6,No,3,Compliance Decision Friction
+519,IDC-43038,2026-03-30T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,18.2,4,No,2,User Verification Friction
+520,IDC-43484,2026-02-19T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Please adjust our scheduled report frequency,S4 - Low,62.6,1,No,1,Account Admin
+521,IDC-42280,2026-02-27T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S4 - Low,39,1,No,1,Integration & Config
+522,IDC-42347,2026-06-26T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Passport read failing for a batch of users,S3 - Medium,37.7,4,No,2,User Verification Friction
+523,IDC-44357,2026-07-07T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Duplicate verification sessions created for one user,S3 - Medium,26.5,6,No,2,User Verification Friction
+524,IDC-42268,2026-06-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S4 - Low,64.5,2,No,1,Account Admin
+525,IDC-43172,2026-07-23T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Zip code mismatch on addresses we believe are valid,S3 - Medium,22.6,6,No,2,User Verification Friction
+526,IDC-42086,2026-04-02T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Base URL misconfigured, double https in the endpoint",S3 - Medium,12.1,3,No,2,Integration & Config
+527,IDC-44918,2026-03-21T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Full 9-digit SSN check failing after config change,S3 - Medium,31.1,4,No,2,User Verification Friction
+528,IDC-43584,2026-02-26T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Address normalization rejecting apartment formats,S3 - Medium,23.9,6,No,2,User Verification Friction
+529,IDC-42259,2026-05-05T00:00:00.000Z,Rivet Play,CA-ON,Phone,SSN last-4 not matching for valid users,S3 - Medium,34.8,3,No,2,User Verification Friction
+530,IDC-44142,2026-02-04T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Question about the data retention period,S4 - Low,44.9,2,No,1,Account Admin
+531,IDC-42791,2026-02-03T00:00:00.000Z,Rivet Play,CA-ON,Email,Duplicate verification sessions created for one user,S3 - Medium,27.7,3,No,2,User Verification Friction
+532,IDC-42941,2026-03-25T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Partial match returns no data on first attempt,S4 - Low,24.6,3,No,1,User Verification Friction
+533,IDC-43036,2026-03-30T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Step-up auth triggering for returning players,S3 - Medium,37.7,4,No,2,User Verification Friction
+534,IDC-44075,2026-03-21T00:00:00.000Z,Marigold Gaming,US-MI,Portal,SSN last-4 not matching for valid users,S2 - High,17.8,7,No,3,User Verification Friction
+535,IDC-43148,2026-03-07T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Player says they were verified twice and charged twice,S4 - Low,58.6,3,Yes,1,User Verification Friction
+536,IDC-42945,2026-07-06T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,37.2,4,No,2,Platform Reliability Friction
+537,IDC-43144,2026-07-26T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,38.3,3,No,2,Compliance Decision Friction
+538,IDC-43089,2026-03-25T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,25.2,6,No,2,User Verification Friction
+539,IDC-43662,2026-04-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,"vendors.error on data check, backend did not respond in time",S2 - High,14.8,5,Yes,3,Platform Reliability Friction
+540,IDC-43087,2026-03-28T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Requesting SOC 2 report for our compliance team,S3 - Medium,27.8,4,No,2,Account Admin
+541,IDC-43478,2026-07-28T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Player passed data check but failed secondary auth,S4 - Low,35.6,1,No,1,User Verification Friction
+542,IDC-44855,2026-06-16T00:00:00.000Z,Pinnacle Play,US-CO,Email,Requesting SOC 2 report for our compliance team,S4 - Low,33.1,1,No,1,Account Admin
+543,IDC-43265,2026-07-01T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,11.8,2,No,2,User Verification Friction
+544,IDC-42024,2026-07-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Question about the data retention period,S4 - Low,27.2,3,No,1,Account Admin
+545,IDC-43963,2026-05-19T00:00:00.000Z,Marigold Gaming,US-MI,Email,Player says they were verified twice and charged twice,S1 - Critical,3.9,8,No,4,User Verification Friction
+546,IDC-42640,2026-04-11T00:00:00.000Z,Rivet Play,CA-ON,Email,"PO Box treated as invalid, several player complaints",S4 - Low,52.3,3,No,1,User Verification Friction
+547,IDC-42226,2026-06-15T00:00:00.000Z,Rivet Play,CA-ON,Portal,Front of licence rejected as invalid image,S2 - High,21.2,9,No,3,User Verification Friction
+548,IDC-44411,2026-02-23T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Can the check flag an underage applicant?,S3 - Medium,39.1,3,No,2,Compliance Decision Friction
+549,IDC-43421,2026-03-12T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Can the check flag an underage applicant?,S3 - Medium,35.5,2,No,2,Compliance Decision Friction
+550,IDC-43366,2026-04-19T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,How do we clear stuck review cases?,S3 - Medium,30.9,6,No,2,Operational Backlog Friction
+551,IDC-43203,2026-04-24T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Review decision pending for 48h+, players waiting",S2 - High,23.3,6,No,3,Operational Backlog Friction
+552,IDC-44621,2026-05-12T00:00:00.000Z,Ashgrove Bet,UK,Phone,SSN last-4 not matching for valid users,S4 - Low,55,3,No,1,User Verification Friction
+553,IDC-42553,2026-08-02T00:00:00.000Z,Rivet Play,CA-ON,Email,"vendors.error on data check, backend did not respond in time",S3 - Medium,21.4,2,No,2,Platform Reliability Friction
+554,IDC-42501,2026-06-17T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Sanctions hit looks like a false positive, please review",S2 - High,14.6,7,No,3,Compliance Decision Friction
+555,IDC-42534,2026-05-16T00:00:00.000Z,Rivet Play,CA-ON,Email,Can we suppress PEP alerts for our US-only brand?,S2 - High,23,4,No,3,Compliance Decision Friction
+556,IDC-43611,2026-06-22T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,IP allowlisting request for a new environment,S2 - High,8.2,7,No,3,Integration & Config
+557,IDC-43118,2026-04-09T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Player says they were verified twice and charged twice,S3 - Medium,11.4,4,No,2,User Verification Friction
+558,IDC-44837,2026-03-04T00:00:00.000Z,Pinnacle Play,US-CO,Portal,"Multiple users failing data verification, provider looks slow",S1 - Critical,2.9,11,No,4,Platform Reliability Friction
+559,IDC-42988,2026-04-08T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Date of birth validation rejecting valid 1999 dates,S3 - Medium,23.9,4,No,2,User Verification Friction
+560,IDC-44548,2026-02-16T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Token creation request returning 401,S3 - Medium,36.6,2,No,2,Integration & Config
+561,IDC-42487,2026-03-27T00:00:00.000Z,Rivet Play,CA-ON,Email,Upload succeeds but result says image invalid,S2 - High,21.1,6,No,3,User Verification Friction
+562,IDC-43192,2026-04-28T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,37.1,4,No,2,Compliance Decision Friction
+563,IDC-42388,2026-02-22T00:00:00.000Z,Rivet Play,CA-ON,Portal,Requesting SOC 2 report for our compliance team,S3 - Medium,19.2,5,Yes,2,Account Admin
+564,IDC-42167,2026-07-24T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Please add our new brand to the account,S4 - Low,41.6,3,No,1,Integration & Config
+565,IDC-43222,2026-08-02T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Upstream data check returning gateway errors since Monday,S1 - Critical,13.2,9,No,4,Platform Reliability Friction
+566,IDC-44066,2026-04-18T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Please add our new brand to the account,S4 - Low,64.2,2,No,1,Integration & Config
+567,IDC-44598,2026-05-06T00:00:00.000Z,Ashgrove Bet,UK,Email,"vendors.error on data check, backend did not respond in time",S2 - High,14.8,4,Yes,3,Platform Reliability Friction
+568,IDC-43323,2026-05-03T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Partial match returns no data on first attempt,S3 - Medium,43.9,2,No,2,User Verification Friction
+569,IDC-43490,2026-04-25T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Please add our new brand to the account,S4 - Low,20.5,2,No,1,Integration & Config
+570,IDC-42637,2026-04-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Webhook signature verification failing in staging,S4 - Low,67.3,2,Yes,1,Platform Reliability Friction
+571,IDC-42172,2026-05-29T00:00:00.000Z,Rivet Play,CA-ON,Email,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,12.2,5,No,3,Platform Reliability Friction
+572,IDC-43944,2026-03-26T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Set up user access for two new team members,S2 - High,20.1,6,No,3,Integration & Config
+573,IDC-43218,2026-07-18T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,9.9,6,No,2,Compliance Decision Friction
+574,IDC-44602,2026-04-03T00:00:00.000Z,Ashgrove Bet,UK,Email,"Onboarding new market, what config changes are needed?",S4 - Low,24.3,1,No,1,Integration & Config
+575,IDC-42974,2026-07-05T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,12.1,3,No,2,Platform Reliability Friction
+576,IDC-43889,2026-06-27T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Question about the data retention period,S4 - Low,68.5,1,No,1,Account Admin
+577,IDC-43445,2026-04-02T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Watchlist screening flagged the wrong person,S3 - Medium,27.4,2,No,2,Compliance Decision Friction
+578,IDC-44012,2026-06-11T00:00:00.000Z,Marigold Gaming,US-MI,Phone,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,24.5,3,No,2,User Verification Friction
+579,IDC-43808,2026-04-29T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,"PO Box treated as invalid, several player complaints",S3 - Medium,40.5,5,No,2,User Verification Friction
+580,IDC-43587,2026-04-17T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Sudden spike in failed verifications, nothing changed our side",S1 - Critical,9.5,10,Yes,4,Platform Reliability Friction
+581,IDC-44147,2026-02-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,39.7,2,No,2,Platform Reliability Friction
+582,IDC-42729,2026-03-22T00:00:00.000Z,Rivet Play,CA-ON,Email,Front of licence rejected as invalid image,S3 - Medium,13.1,4,Yes,2,User Verification Friction
+583,IDC-44185,2026-04-07T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Watchlist screening flagged the wrong person,S3 - Medium,28.3,5,No,2,Compliance Decision Friction
+584,IDC-42768,2026-02-03T00:00:00.000Z,Rivet Play,CA-ON,Email,Full 9-digit SSN check failing after config change,S3 - Medium,19.8,4,No,2,User Verification Friction
+585,IDC-44698,2026-04-19T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Callback not received after verification completes,S3 - Medium,38.5,3,No,2,Platform Reliability Friction
+586,IDC-42087,2026-04-06T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,apiKey rejected when sent in the request body,S2 - High,14.3,6,No,3,Integration & Config
+587,IDC-43591,2026-07-13T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,12.1,6,No,2,User Verification Friction
+588,IDC-42465,2026-06-18T00:00:00.000Z,Rivet Play,CA-ON,Email,Callback not received after verification completes,S3 - Medium,10,4,No,2,Platform Reliability Friction
+589,IDC-43030,2026-07-24T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Player says they were verified twice and charged twice,S2 - High,6.4,7,No,3,User Verification Friction
+590,IDC-44673,2026-04-13T00:00:00.000Z,Pinnacle Play,US-CO,Email,Step-up auth triggering for returning players,S4 - Low,25.5,2,No,1,User Verification Friction
+591,IDC-44881,2026-07-10T00:00:00.000Z,Pinnacle Play,US-CO,Email,Requesting SOC 2 report for our compliance team,S3 - Medium,39.2,6,No,2,Account Admin
+592,IDC-44224,2026-06-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Webhook signature verification failing in staging,S3 - Medium,27,5,No,2,Platform Reliability Friction
+593,IDC-42147,2026-07-14T00:00:00.000Z,Rivet Play,CA-ON,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,14.1,3,No,2,User Verification Friction
+594,IDC-43588,2026-05-06T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,16.9,2,Yes,2,User Verification Friction
+595,IDC-44574,2026-03-29T00:00:00.000Z,Ashgrove Bet,UK,Email,"Multiple users failing data verification, provider looks slow",S2 - High,11.9,7,No,3,Platform Reliability Friction
+596,IDC-43849,2026-07-06T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,30.9,2,No,2,User Verification Friction
+597,IDC-42650,2026-02-18T00:00:00.000Z,Rivet Play,CA-ON,Email,Step-up auth triggering for returning players,S2 - High,21.6,8,No,3,User Verification Friction
+598,IDC-44218,2026-06-12T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,27.5,4,No,2,Compliance Decision Friction
+599,IDC-44298,2026-06-13T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,27.5,3,No,2,Compliance Decision Friction
+600,IDC-43260,2026-05-16T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Callback not received after verification completes,S4 - Low,48.8,2,No,1,Platform Reliability Friction
+601,IDC-44542,2026-03-16T00:00:00.000Z,Ashgrove Bet,UK,Portal,Callback not received after verification completes,S3 - Medium,28.7,5,No,2,Platform Reliability Friction
+602,IDC-44884,2026-04-08T00:00:00.000Z,Pinnacle Play,US-CO,Email,Callback not received after verification completes,S3 - Medium,16.2,3,No,2,Platform Reliability Friction
+603,IDC-43978,2026-07-16T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,12.8,4,No,2,Compliance Decision Friction
+604,IDC-43723,2026-06-13T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Zip code mismatch on addresses we believe are valid,S1 - Critical,5.5,11,No,4,User Verification Friction
+605,IDC-42124,2026-04-28T00:00:00.000Z,Rivet Play,CA-ON,Portal,"PO Box treated as invalid, several player complaints",S3 - Medium,30.5,4,No,2,User Verification Friction
+606,IDC-43210,2026-04-19T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Review decision pending for 48h+, players waiting",S2 - High,20.4,4,No,3,Operational Backlog Friction
+607,IDC-43697,2026-05-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Watchlist screening flagged the wrong person,S3 - Medium,30.2,6,No,2,Compliance Decision Friction
+608,IDC-43747,2026-07-13T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Please adjust our scheduled report frequency,S2 - High,19.6,5,No,3,Account Admin
+609,IDC-42209,2026-03-31T00:00:00.000Z,Rivet Play,CA-ON,Email,Manual review queue backing up this week,S2 - High,13.7,7,No,3,Operational Backlog Friction
+610,IDC-42630,2026-04-11T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Question about the data retention period,S4 - Low,69.8,1,No,1,Account Admin
+611,IDC-43398,2026-05-26T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Too many users routed to step-up this week,S3 - Medium,29.3,4,No,2,User Verification Friction
+612,IDC-42759,2026-06-02T00:00:00.000Z,Rivet Play,CA-ON,Email,IP allowlisting request for a new environment,S3 - Medium,36.1,3,No,2,Integration & Config
+613,IDC-44801,2026-06-22T00:00:00.000Z,Pinnacle Play,US-CO,Email,Zip code mismatch on addresses we believe are valid,S3 - Medium,43,4,No,2,User Verification Friction
+614,IDC-42377,2026-06-14T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S4 - Low,32,3,No,1,Integration & Config
+615,IDC-42646,2026-02-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Requesting SOC 2 report for our compliance team,S3 - Medium,33.3,6,No,2,Account Admin
+616,IDC-43610,2026-03-06T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Can the check flag an underage applicant?,S3 - Medium,23,3,No,2,Compliance Decision Friction
+617,IDC-43316,2026-07-16T00:00:00.000Z,Foundry Gaming,US-NJ,Email,How do we clear stuck review cases?,S2 - High,21,4,No,3,Operational Backlog Friction
+618,IDC-44521,2026-05-08T00:00:00.000Z,Ashgrove Bet,UK,Email,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,11.1,6,No,2,Compliance Decision Friction
+619,IDC-44868,2026-07-10T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Onboarding new market, what config changes are needed?",S4 - Low,36.2,2,No,1,Integration & Config
+620,IDC-42322,2026-04-26T00:00:00.000Z,Rivet Play,CA-ON,Portal,"OTP channel timeout error, must be integer 15-900",S2 - High,6.2,6,No,3,User Verification Friction
+621,IDC-43455,2026-05-29T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Too many users routed to step-up this week,S3 - Medium,13.6,3,No,2,User Verification Friction
+622,IDC-43066,2026-02-24T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Multiple users failing data verification, provider looks slow",S2 - High,23,6,No,3,Platform Reliability Friction
+623,IDC-44903,2026-07-06T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,43.9,6,No,2,Compliance Decision Friction
+624,IDC-42254,2026-03-27T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"CfA failing, what does phone_not_baselined mean?",S2 - High,10.5,6,No,3,Platform Reliability Friction
+625,IDC-42931,2026-02-23T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,How do we clear stuck review cases?,S2 - High,8.8,6,No,3,Operational Backlog Friction
+626,IDC-43415,2026-05-17T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Too many users routed to step-up this week,S3 - Medium,14.7,3,No,2,User Verification Friction
+627,IDC-43714,2026-06-25T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Duplicate verification sessions created for one user,S4 - Low,57.9,2,No,1,User Verification Friction
+628,IDC-43865,2026-05-05T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Duplicate verification sessions created for one user,S2 - High,18,7,No,3,User Verification Friction
+629,IDC-43073,2026-05-12T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,23.8,3,No,2,User Verification Friction
+630,IDC-43810,2026-04-24T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Base URL misconfigured, double https in the endpoint",S3 - Medium,43.2,4,No,2,Integration & Config
+631,IDC-43391,2026-05-17T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Player passed data check but failed secondary auth,S2 - High,18.9,5,No,3,User Verification Friction
+632,IDC-44857,2026-04-28T00:00:00.000Z,Pinnacle Play,US-CO,Email,"PO Box treated as invalid, several player complaints",S2 - High,18.9,7,No,3,User Verification Friction
+633,IDC-44420,2026-03-17T00:00:00.000Z,Ashgrove Bet,UK,Portal,Token creation request returning 401,S3 - Medium,25,4,No,2,Integration & Config
+634,IDC-44767,2026-07-02T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Too many users routed to step-up this week,S3 - Medium,42.3,5,Yes,2,User Verification Friction
+635,IDC-43913,2026-04-15T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,10.1,7,No,3,Platform Reliability Friction
+636,IDC-44019,2026-02-11T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Too many users routed to step-up this week,S2 - High,20.3,6,No,3,User Verification Friction
+637,IDC-44274,2026-03-26T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Callback not received after verification completes,S3 - Medium,34.8,3,No,2,Platform Reliability Friction
+638,IDC-44716,2026-02-02T00:00:00.000Z,Pinnacle Play,US-CO,Email,Player says they were verified twice and charged twice,S2 - High,13.5,9,No,3,User Verification Friction
+639,IDC-44339,2026-04-27T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Token creation request returning 401,S3 - Medium,39,6,No,2,Integration & Config
+640,IDC-43678,2026-02-15T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,IDPV outcome differs across document types,S3 - Medium,24.6,5,No,2,Compliance Decision Friction
+641,IDC-43751,2026-06-03T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Manual review queue backing up this week,S2 - High,21.9,8,No,3,Operational Backlog Friction
+642,IDC-43604,2026-03-31T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Passport read failing for a batch of users,S2 - High,13.2,8,No,3,User Verification Friction
+643,IDC-42444,2026-07-30T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Sudden spike in failed verifications, nothing changed our side",S1 - Critical,13.5,8,No,4,Platform Reliability Friction
+644,IDC-43831,2026-03-19T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Manual review queue backing up this week,S2 - High,11,4,No,3,Operational Backlog Friction
+645,IDC-43688,2026-04-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"Review decision pending for 48h+, players waiting",S2 - High,25.9,7,No,3,Operational Backlog Friction
+646,IDC-43438,2026-04-29T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Too many users routed to step-up this week,S3 - Medium,35.4,6,No,2,User Verification Friction
+647,IDC-42049,2026-03-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S4 - Low,64,2,No,1,Integration & Config
+648,IDC-44839,2026-05-21T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Duplicate verification sessions created for one user,S3 - Medium,28.1,5,No,2,User Verification Friction
+649,IDC-44658,2026-07-30T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Base URL misconfigured, double https in the endpoint",S3 - Medium,25.6,2,No,2,Integration & Config
+650,IDC-44193,2026-04-23T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Verification failing with provider timeout (504),S2 - High,11.4,9,No,3,Platform Reliability Friction
+651,IDC-44538,2026-05-03T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,IP allowlisting request for a new environment,S2 - High,12.7,9,No,3,Integration & Config
+652,IDC-42189,2026-02-09T00:00:00.000Z,Rivet Play,CA-ON,Portal,Duplicate verification sessions created for one user,S3 - Medium,33.3,3,No,2,User Verification Friction
+653,IDC-44355,2026-06-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,How do we clear stuck review cases?,S3 - Medium,11.2,3,No,2,Operational Backlog Friction
+654,IDC-42937,2026-05-19T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Player passed data check but failed secondary auth,S3 - Medium,29.9,3,Yes,2,User Verification Friction
+655,IDC-42023,2026-02-18T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S4 - Low,31.1,1,No,1,Integration & Config
+656,IDC-43940,2026-07-27T00:00:00.000Z,Marigold Gaming,US-MI,Email,Watchlist screening flagged the wrong person,S3 - Medium,30.4,3,No,2,Compliance Decision Friction
+657,IDC-42264,2026-03-12T00:00:00.000Z,Rivet Play,CA-ON,Email,Player says they were verified twice and charged twice,S3 - Medium,24,5,No,2,User Verification Friction
+658,IDC-43282,2026-04-07T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,12.1,2,Yes,2,Platform Reliability Friction
+659,IDC-44570,2026-06-04T00:00:00.000Z,Ashgrove Bet,UK,Email,New image capture flow rejecting valid IDs,S3 - Medium,23.1,6,No,2,User Verification Friction
+660,IDC-42302,2026-04-04T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S3 - Medium,18.5,4,No,2,Account Admin
+661,IDC-44313,2026-05-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Please add our new brand to the account,S4 - Low,60.7,1,No,1,Integration & Config
+662,IDC-42761,2026-05-30T00:00:00.000Z,Rivet Play,CA-ON,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,34.4,5,No,2,Compliance Decision Friction
+663,IDC-43334,2026-06-23T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Watchlist screening flagged the wrong person,S3 - Medium,18.9,3,No,2,Compliance Decision Friction
+664,IDC-44864,2026-07-06T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Base URL misconfigured, double https in the endpoint",S2 - High,15.8,6,No,3,Integration & Config
+665,IDC-43442,2026-05-13T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S2 - High,8.4,9,No,3,User Verification Friction
+666,IDC-43268,2026-02-06T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Watchlist screening flagged the wrong person,S3 - Medium,37.8,4,No,2,Compliance Decision Friction
+667,IDC-44668,2026-05-09T00:00:00.000Z,Pinnacle Play,US-CO,Email,Callback not received after verification completes,S4 - Low,43.5,1,No,1,Platform Reliability Friction
+668,IDC-43197,2026-03-18T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Too many users routed to step-up this week,S2 - High,9.8,7,No,3,User Verification Friction
+669,IDC-43901,2026-04-08T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,21.8,6,No,3,Platform Reliability Friction
+670,IDC-43420,2026-02-03T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,17.7,4,No,2,Compliance Decision Friction
+671,IDC-42293,2026-05-15T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S4 - Low,48,1,No,1,Integration & Config
+672,IDC-42557,2026-04-01T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S4 - Low,44.7,2,No,1,Integration & Config
+673,IDC-43049,2026-02-28T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,9.5,2,No,2,Compliance Decision Friction
+674,IDC-44759,2026-04-19T00:00:00.000Z,Pinnacle Play,US-CO,Email,"PO Box treated as invalid, several player complaints",S2 - High,23.3,9,No,3,User Verification Friction
+675,IDC-44485,2026-03-12T00:00:00.000Z,Ashgrove Bet,UK,Email,Passport read failing for a batch of users,S1 - Critical,11.8,11,No,4,User Verification Friction
+676,IDC-44219,2026-04-16T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,10.7,9,No,3,Platform Reliability Friction
+677,IDC-44337,2026-04-26T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Upstream data check returning gateway errors since Monday,S2 - High,20,7,No,3,Platform Reliability Friction
+678,IDC-43547,2026-06-27T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Question about the data retention period,S4 - Low,55.1,3,No,1,Account Admin
+679,IDC-42242,2026-07-02T00:00:00.000Z,Rivet Play,CA-ON,Portal,SSN last-4 not matching for valid users,S3 - Medium,14.7,3,No,2,User Verification Friction
+680,IDC-42218,2026-05-30T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Webhook signature verification failing in staging,S3 - Medium,34.1,5,No,2,Platform Reliability Friction
+681,IDC-42314,2026-07-21T00:00:00.000Z,Rivet Play,CA-ON,Portal,Front of licence rejected as invalid image,S2 - High,20.6,8,Yes,3,User Verification Friction
+682,IDC-44118,2026-08-02T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Onboarding new market, what config changes are needed?",S3 - Medium,21.3,6,No,2,Integration & Config
+683,IDC-42995,2026-06-15T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Please adjust our scheduled report frequency,S4 - Low,40,3,No,1,Account Admin
+684,IDC-43804,2026-02-20T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"Onboarding new market, what config changes are needed?",S4 - Low,37.8,1,No,1,Integration & Config
+685,IDC-43583,2026-04-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Watchlist screening flagged the wrong person,S3 - Medium,28.9,5,No,2,Compliance Decision Friction
+686,IDC-42292,2026-07-13T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S4 - Low,26.7,2,No,1,Account Admin
+687,IDC-44740,2026-06-12T00:00:00.000Z,Pinnacle Play,US-CO,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,29.4,5,No,2,Compliance Decision Friction
+688,IDC-43929,2026-04-27T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Review decision pending for 48h+, players waiting",S2 - High,22.9,7,No,3,Operational Backlog Friction
+689,IDC-42574,2026-07-10T00:00:00.000Z,Rivet Play,CA-ON,Phone,Invoice query forwarded from finance,S3 - Medium,29.2,4,No,2,Account Admin
+690,IDC-44747,2026-07-01T00:00:00.000Z,Pinnacle Play,US-CO,Email,Duplicate verification sessions created for one user,S2 - High,5.5,9,No,3,User Verification Friction
+691,IDC-42524,2026-06-22T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S4 - Low,65.1,3,No,1,Account Admin
+692,IDC-44372,2026-04-12T00:00:00.000Z,Ashgrove Bet,UK,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,41.2,6,No,2,User Verification Friction
+693,IDC-43910,2026-07-30T00:00:00.000Z,Marigold Gaming,US-MI,Phone,Can the check flag an underage applicant?,S2 - High,12.8,8,No,3,Compliance Decision Friction
+694,IDC-42053,2026-06-30T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Base URL misconfigured, double https in the endpoint",S3 - Medium,15.5,5,No,2,Integration & Config
+695,IDC-43245,2026-05-20T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Watchlist screening flagged the wrong person,S3 - Medium,39.4,5,Yes,2,Compliance Decision Friction
+696,IDC-42002,2026-05-15T00:00:00.000Z,Rivet Play,CA-ON,Email,"Review decision pending for 48h+, players waiting",S4 - Low,62.8,1,No,1,Operational Backlog Friction
+697,IDC-42910,2026-04-26T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Question about the data retention period,S2 - High,18.4,8,No,3,Account Admin
+698,IDC-42295,2026-04-02T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Requesting SOC 2 report for our compliance team,S4 - Low,60.8,3,No,1,Account Admin
+699,IDC-43471,2026-03-02T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S4 - Low,66.2,1,No,1,Compliance Decision Friction
+700,IDC-43348,2026-07-10T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,11.7,6,No,2,Compliance Decision Friction
+701,IDC-43735,2026-05-17T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Watchlist screening flagged the wrong person,S3 - Medium,29.7,2,No,2,Compliance Decision Friction
+702,IDC-43781,2026-03-27T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"Onboarding new market, what config changes are needed?",S3 - Medium,34.9,5,No,2,Integration & Config
+703,IDC-42602,2026-07-02T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,IP allowlisting request for a new environment,S4 - Low,23.5,1,No,1,Integration & Config
+704,IDC-42519,2026-02-08T00:00:00.000Z,Rivet Play,CA-ON,Phone,"Review decision pending for 48h+, players waiting",S3 - Medium,9.7,4,No,2,Operational Backlog Friction
+705,IDC-42797,2026-05-14T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Selfie step blank on Android Chrome,S3 - Medium,37.9,5,Yes,2,User Verification Friction
+706,IDC-42721,2026-02-03T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S3 - Medium,40.2,5,No,2,Integration & Config
+707,IDC-43503,2026-07-26T00:00:00.000Z,Foundry Gaming,US-NJ,Email,SSN last-4 not matching for valid users,S3 - Medium,26.5,2,Yes,2,User Verification Friction
+708,IDC-43012,2026-07-27T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Manual review queue backing up this week,S3 - Medium,32.6,2,No,2,Operational Backlog Friction
+709,IDC-44616,2026-07-27T00:00:00.000Z,Ashgrove Bet,UK,Portal,Can the check flag an underage applicant?,S2 - High,17.3,7,No,3,Compliance Decision Friction
+710,IDC-42656,2026-07-06T00:00:00.000Z,Rivet Play,CA-ON,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,31.3,5,No,2,User Verification Friction
+711,IDC-44334,2026-06-07T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Watchlist screening flagged the wrong person,S3 - Medium,21.6,5,No,2,Compliance Decision Friction
+712,IDC-44624,2026-04-11T00:00:00.000Z,Ashgrove Bet,UK,Email,Front of licence rejected as invalid image,S3 - Medium,12,6,No,2,User Verification Friction
+713,IDC-44259,2026-05-04T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Upload succeeds but result says image invalid,S3 - Medium,43.8,3,No,2,User Verification Friction
+714,IDC-43686,2026-04-09T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"Multiple users failing data verification, provider looks slow",S1 - Critical,10.5,7,No,4,Platform Reliability Friction
+715,IDC-44566,2026-06-04T00:00:00.000Z,Ashgrove Bet,UK,Email,Please add our new brand to the account,S4 - Low,36.9,3,No,1,Integration & Config
+716,IDC-43785,2026-04-09T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Webhook signature verification failing in staging,S4 - Low,18.7,3,No,1,Platform Reliability Friction
+717,IDC-44095,2026-05-18T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Player says they were verified twice and charged twice,S2 - High,16.2,7,No,3,User Verification Friction
+718,IDC-42369,2026-02-10T00:00:00.000Z,Rivet Play,CA-ON,Email,Upstream data check returning gateway errors since Monday,S2 - High,17.6,5,No,3,Platform Reliability Friction
+719,IDC-43557,2026-06-10T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Duplicate verification sessions created for one user,S2 - High,18.5,5,No,3,User Verification Friction
+720,IDC-43487,2026-04-01T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,17.8,4,No,2,User Verification Friction
+721,IDC-44665,2026-06-05T00:00:00.000Z,Pinnacle Play,US-CO,Phone,IDPV outcome differs across document types,S4 - Low,32.8,2,No,1,Compliance Decision Friction
+722,IDC-44015,2026-03-10T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Zip code mismatch on addresses we believe are valid,S2 - High,21.5,8,Yes,3,User Verification Friction
+723,IDC-42833,2026-04-16T00:00:00.000Z,Rivet Play,CA-ON,Portal,Verification failing with provider timeout (504),S1 - Critical,13.4,8,Yes,4,Platform Reliability Friction
+724,IDC-42741,2026-04-27T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S4 - Low,61.9,3,No,1,Account Admin
+725,IDC-42813,2026-04-21T00:00:00.000Z,Rivet Play,CA-ON,Portal,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,23.3,4,No,2,Compliance Decision Friction
+726,IDC-42803,2026-02-04T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Manual review queue backing up this week,S3 - Medium,33.7,2,No,2,Operational Backlog Friction
+727,IDC-43299,2026-06-02T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,25.1,6,No,2,User Verification Friction
+728,IDC-44416,2026-07-01T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Full 9-digit SSN check failing after config change,S1 - Critical,6.2,8,No,4,User Verification Friction
+729,IDC-43416,2026-05-26T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Address normalization rejecting apartment formats,S2 - High,20.7,9,No,3,User Verification Friction
+730,IDC-43517,2026-03-15T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Multiple users failing data verification, provider looks slow",S1 - Critical,12.4,6,No,4,Platform Reliability Friction
+731,IDC-43111,2026-05-07T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Player passed data check but failed secondary auth,S2 - High,11.9,4,No,3,User Verification Friction
+732,IDC-42227,2026-04-17T00:00:00.000Z,Rivet Play,CA-ON,Phone,Please add our new brand to the account,S4 - Low,16.7,3,No,1,Integration & Config
+733,IDC-42840,2026-06-05T00:00:00.000Z,Rivet Play,CA-ON,Email,ID capture screen freezes on mobile for several users,S3 - Medium,39.8,2,No,2,User Verification Friction
+734,IDC-44626,2026-03-12T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,18.1,2,No,2,User Verification Friction
+735,IDC-42148,2026-05-21T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Review decision pending for 48h+, players waiting",S3 - Medium,10.9,5,Yes,2,Operational Backlog Friction
+736,IDC-42141,2026-05-01T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S3 - Medium,19,4,No,2,Integration & Config
+737,IDC-42312,2026-06-06T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,66,2,No,1,Account Admin
+738,IDC-43528,2026-02-08T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Player says they were verified twice and charged twice,S4 - Low,18.9,2,No,1,User Verification Friction
+739,IDC-44241,2026-06-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Inaccurate PEP alert on an obviously low-risk player,S2 - High,9.4,8,Yes,3,Compliance Decision Friction
+740,IDC-44345,2026-02-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Selfie step blank on Android Chrome,S3 - Medium,33.5,6,No,2,User Verification Friction
+741,IDC-43113,2026-07-23T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Player passed data check but failed secondary auth,S2 - High,10.5,8,No,3,User Verification Friction
+742,IDC-43238,2026-06-01T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"OTP channel timeout error, must be integer 15-900",S3 - Medium,32,3,No,2,User Verification Friction
+743,IDC-44174,2026-02-23T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,How do we clear stuck review cases?,S3 - Medium,34.4,2,No,2,Operational Backlog Friction
+744,IDC-42145,2026-06-04T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S4 - Low,24.2,3,No,1,Account Admin
+745,IDC-44684,2026-05-31T00:00:00.000Z,Pinnacle Play,US-CO,Email,Partial match returns no data on first attempt,S3 - Medium,21,5,Yes,2,User Verification Friction
+746,IDC-43361,2026-07-06T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,13.9,3,No,2,Compliance Decision Friction
+747,IDC-43572,2026-05-31T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"CfA failing, what does phone_not_baselined mean?",S2 - High,11.3,6,No,3,Platform Reliability Friction
+748,IDC-42244,2026-06-16T00:00:00.000Z,Rivet Play,CA-ON,Portal,Player passed data check but failed secondary auth,S3 - Medium,30.2,3,No,2,User Verification Friction
+749,IDC-42917,2026-06-28T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,42,6,No,2,Compliance Decision Friction
+750,IDC-43395,2026-05-23T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Verification failing with provider timeout (504),S1 - Critical,13.4,6,Yes,4,Platform Reliability Friction
+751,IDC-44444,2026-03-17T00:00:00.000Z,Ashgrove Bet,UK,Portal,Zip code mismatch on addresses we believe are valid,S3 - Medium,24.8,4,No,2,User Verification Friction
+752,IDC-44472,2026-02-12T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,27.4,6,No,2,User Verification Friction
+753,IDC-42223,2026-03-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Partial match returns no data on first attempt,S3 - Medium,40.3,2,No,2,User Verification Friction
+754,IDC-44822,2026-05-29T00:00:00.000Z,Pinnacle Play,US-CO,Email,Please add our new brand to the account,S4 - Low,53.7,1,No,1,Integration & Config
+755,IDC-43133,2026-07-01T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Question about the data retention period,S4 - Low,68.8,2,No,1,Account Admin
+756,IDC-44516,2026-04-17T00:00:00.000Z,Ashgrove Bet,UK,Portal,"vendors.error on data check, backend did not respond in time",S2 - High,18.4,6,No,3,Platform Reliability Friction
+757,IDC-43381,2026-07-13T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,25.1,3,No,2,Compliance Decision Friction
+758,IDC-42765,2026-06-16T00:00:00.000Z,Rivet Play,CA-ON,Email,ID capture screen freezes on mobile for several users,S2 - High,18.8,8,No,3,User Verification Friction
+759,IDC-44452,2026-07-01T00:00:00.000Z,Ashgrove Bet,UK,Email,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,38.1,6,No,2,Compliance Decision Friction
+760,IDC-43881,2026-05-18T00:00:00.000Z,Marigold Gaming,US-MI,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,41.9,2,No,2,User Verification Friction
+761,IDC-42512,2026-06-14T00:00:00.000Z,Rivet Play,CA-ON,Phone,IDPV outcome differs across document types,S1 - Critical,9.2,7,No,4,Compliance Decision Friction
+762,IDC-43180,2026-05-27T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Please adjust our scheduled report frequency,S3 - Medium,43.7,4,Yes,2,Account Admin
+763,IDC-44612,2026-07-18T00:00:00.000Z,Ashgrove Bet,UK,Email,Token creation request returning 401,S4 - Low,46.2,2,No,1,Integration & Config
+764,IDC-44843,2026-06-06T00:00:00.000Z,Pinnacle Play,US-CO,Phone,Set up user access for two new team members,S3 - Medium,28.7,2,No,2,Integration & Config
+765,IDC-44720,2026-03-03T00:00:00.000Z,Pinnacle Play,US-CO,Email,Can we suppress PEP alerts for our US-only brand?,S4 - Low,28.8,1,No,1,Compliance Decision Friction
+766,IDC-43224,2026-06-11T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Duplicate verification sessions created for one user,S2 - High,9.3,9,No,3,User Verification Friction
+767,IDC-42625,2026-07-12T00:00:00.000Z,Rivet Play,CA-ON,Portal,"PO Box treated as invalid, several player complaints",S3 - Medium,24.9,6,No,2,User Verification Friction
+768,IDC-42446,2026-05-28T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Multiple users failing data verification, provider looks slow",S3 - Medium,16.5,5,Yes,2,Platform Reliability Friction
+769,IDC-43027,2026-05-10T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,43.5,6,No,2,Compliance Decision Friction
+770,IDC-43511,2026-05-17T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Too many users routed to step-up this week,S3 - Medium,32.1,3,No,2,User Verification Friction
+771,IDC-43632,2026-02-11T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Passport read failing for a batch of users,S2 - High,7.5,7,Yes,3,User Verification Friction
+772,IDC-44876,2026-03-17T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Player passed data check but failed secondary auth,S3 - Medium,38.1,6,No,2,User Verification Friction
+773,IDC-42698,2026-06-21T00:00:00.000Z,Rivet Play,CA-ON,Email,Step-up auth triggering for returning players,S2 - High,14.3,8,Yes,3,User Verification Friction
+774,IDC-44056,2026-04-08T00:00:00.000Z,Marigold Gaming,US-MI,Email,Verification failing with provider timeout (504),S1 - Critical,12.8,9,No,4,Platform Reliability Friction
+775,IDC-43638,2026-02-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"Onboarding new market, what config changes are needed?",S4 - Low,68.3,1,No,1,Integration & Config
+776,IDC-43648,2026-07-28T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Manual review queue backing up this week,S3 - Medium,43.6,5,No,2,Operational Backlog Friction
+777,IDC-44805,2026-04-16T00:00:00.000Z,Pinnacle Play,US-CO,Email,"OTP channel timeout error, must be integer 15-900",S3 - Medium,39.5,2,No,2,User Verification Friction
+778,IDC-42456,2026-04-10T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S4 - Low,17.2,2,No,1,Account Admin
+779,IDC-43450,2026-02-09T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Zip code mismatch on addresses we believe are valid,S3 - Medium,30.8,3,No,2,User Verification Friction
+780,IDC-42671,2026-03-26T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Full 9-digit SSN check failing after config change,S4 - Low,35.7,2,No,1,User Verification Friction
+781,IDC-44247,2026-06-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Can the check flag an underage applicant?,S3 - Medium,37.5,4,No,2,Compliance Decision Friction
+782,IDC-43287,2026-06-22T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Player passed data check but failed secondary auth,S3 - Medium,16.5,4,No,2,User Verification Friction
+783,IDC-42538,2026-04-05T00:00:00.000Z,Rivet Play,CA-ON,Portal,Set up user access for two new team members,S3 - Medium,21.9,4,No,2,Integration & Config
+784,IDC-43304,2026-02-28T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Watchlist screening flagged the wrong person,S1 - Critical,4.1,11,No,4,Compliance Decision Friction
+785,IDC-43689,2026-04-18T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Verification failing with provider timeout (504),S1 - Critical,8.4,8,No,4,Platform Reliability Friction
+786,IDC-44529,2026-05-01T00:00:00.000Z,Ashgrove Bet,UK,Email,Inaccurate PEP alert on an obviously low-risk player,S2 - High,16.1,4,No,3,Compliance Decision Friction
+787,IDC-42329,2026-05-11T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Sudden spike in failed verifications, nothing changed our side",S2 - High,22.5,5,No,3,Platform Reliability Friction
+788,IDC-42185,2026-02-24T00:00:00.000Z,Rivet Play,CA-ON,Phone,SSN last-4 not matching for valid users,S3 - Medium,36,5,No,2,User Verification Friction
+789,IDC-43256,2026-04-20T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Player passed data check but failed secondary auth,S3 - Medium,43.9,3,No,2,User Verification Friction
+790,IDC-42933,2026-03-29T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,42.9,6,No,2,Platform Reliability Friction
+791,IDC-44719,2026-06-02T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Onboarding new market, what config changes are needed?",S4 - Low,62.4,3,No,1,Integration & Config
+792,IDC-43530,2026-03-22T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Partial match returns no data on first attempt,S3 - Medium,11.4,6,No,2,User Verification Friction
+793,IDC-42697,2026-05-11T00:00:00.000Z,Rivet Play,CA-ON,Email,Selfie step blank on Android Chrome,S3 - Medium,39.3,4,No,2,User Verification Friction
+794,IDC-43773,2026-03-29T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Partial match returns no data on first attempt,S3 - Medium,29.8,4,No,2,User Verification Friction
+795,IDC-43219,2026-05-17T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Verification failing with provider timeout (504),S1 - Critical,12.7,7,No,4,Platform Reliability Friction
+796,IDC-44546,2026-04-09T00:00:00.000Z,Ashgrove Bet,UK,Portal,Player says they were verified twice and charged twice,S2 - High,5.3,9,No,3,User Verification Friction
+797,IDC-42372,2026-03-05T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,apiKey rejected when sent in the request body,S1 - Critical,12,11,No,4,Integration & Config
+798,IDC-44165,2026-07-16T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Set up user access for two new team members,S4 - Low,21.1,2,No,1,Integration & Config
+799,IDC-42035,2026-02-15T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S3 - Medium,23.3,3,No,2,Account Admin
+800,IDC-42599,2026-08-01T00:00:00.000Z,Rivet Play,CA-ON,Portal,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,38.3,4,No,2,Compliance Decision Friction
+801,IDC-42380,2026-04-13T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S4 - Low,26.6,2,No,1,Account Admin
+802,IDC-42956,2026-04-08T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Set up user access for two new team members,S4 - Low,43.1,2,No,1,Integration & Config
+803,IDC-42556,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Phone,"PO Box treated as invalid, several player complaints",S2 - High,14.3,9,No,3,User Verification Friction
+804,IDC-44450,2026-07-28T00:00:00.000Z,Ashgrove Bet,UK,Portal,"PO Box treated as invalid, several player complaints",S1 - Critical,10,10,No,4,User Verification Friction
+805,IDC-43425,2026-06-22T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"Multiple users failing data verification, provider looks slow",S1 - Critical,9.5,8,No,4,Platform Reliability Friction
+806,IDC-43668,2026-02-19T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,apiKey rejected when sent in the request body,S4 - Low,33.3,1,No,1,Integration & Config
+807,IDC-44600,2026-08-02T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Can the check flag an underage applicant?,S3 - Medium,21.6,6,No,2,Compliance Decision Friction
+808,IDC-42184,2026-06-09T00:00:00.000Z,Rivet Play,CA-ON,Portal,Full 9-digit SSN check failing after config change,S4 - Low,56.9,3,No,1,User Verification Friction
+809,IDC-43710,2026-08-02T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Full 9-digit SSN check failing after config change,S2 - High,5.3,6,No,3,User Verification Friction
+810,IDC-43312,2026-04-19T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,"Sanctions hit looks like a false positive, please review",S3 - Medium,36.9,5,No,2,Compliance Decision Friction
+811,IDC-43701,2026-07-31T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Token creation request returning 401,S2 - High,24.9,6,No,3,Integration & Config
+812,IDC-43919,2026-03-25T00:00:00.000Z,Marigold Gaming,US-MI,Email,Inaccurate PEP alert on an obviously low-risk player,S1 - Critical,11.6,10,No,4,Compliance Decision Friction
+813,IDC-44310,2026-02-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Manual review queue backing up this week,S3 - Medium,17.4,3,No,2,Operational Backlog Friction
+814,IDC-44008,2026-07-28T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Watchlist screening flagged the wrong person,S3 - Medium,24.2,5,No,2,Compliance Decision Friction
+815,IDC-42271,2026-08-02T00:00:00.000Z,Rivet Play,CA-ON,Portal,Set up user access for two new team members,S4 - Low,36.2,3,No,1,Integration & Config
+816,IDC-42325,2026-07-04T00:00:00.000Z,Rivet Play,CA-ON,Email,Zip code mismatch on addresses we believe are valid,S3 - Medium,19.1,4,No,2,User Verification Friction
+817,IDC-44086,2026-07-26T00:00:00.000Z,Marigold Gaming,US-MI,Email,Duplicate verification sessions created for one user,S3 - Medium,18,2,No,2,User Verification Friction
+818,IDC-42514,2026-06-21T00:00:00.000Z,Rivet Play,CA-ON,Portal,"OTP channel timeout error, must be integer 15-900",S2 - High,20,4,No,3,User Verification Friction
+819,IDC-43957,2026-07-23T00:00:00.000Z,Marigold Gaming,US-MI,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,20.4,6,No,2,User Verification Friction
+820,IDC-42802,2026-04-12T00:00:00.000Z,Rivet Play,CA-ON,Email,"Base URL misconfigured, double https in the endpoint",S2 - High,11.8,4,No,3,Integration & Config
+821,IDC-43367,2026-02-06T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Duplicate verification sessions created for one user,S3 - Medium,9.9,6,No,2,User Verification Friction
+822,IDC-44887,2026-06-09T00:00:00.000Z,Pinnacle Play,US-CO,Email,Request: export of last month's verification volumes,S3 - Medium,18,6,No,2,Account Admin
+823,IDC-43336,2026-04-06T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,Player says they were verified twice and charged twice,S3 - Medium,9.3,6,No,2,User Verification Friction
+824,IDC-44826,2026-03-18T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Player says they were verified twice and charged twice,S3 - Medium,26.7,3,Yes,2,User Verification Friction
+825,IDC-42830,2026-03-22T00:00:00.000Z,Rivet Play,CA-ON,Email,Requesting SOC 2 report for our compliance team,S4 - Low,35.5,3,Yes,1,Account Admin
+826,IDC-43213,2026-07-01T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,29.3,5,No,2,User Verification Friction
+827,IDC-44544,2026-06-27T00:00:00.000Z,Ashgrove Bet,UK,Email,Inaccurate PEP alert on an obviously low-risk player,S2 - High,9.2,9,No,3,Compliance Decision Friction
+828,IDC-42361,2026-05-31T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Multiple users failing data verification, provider looks slow",S1 - Critical,11,6,Yes,4,Platform Reliability Friction
+829,IDC-44215,2026-07-27T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Callback not received after verification completes,S3 - Medium,16.2,4,No,2,Platform Reliability Friction
+830,IDC-42331,2026-06-22T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Webhook signature verification failing in staging,S2 - High,17.3,5,No,3,Platform Reliability Friction
+831,IDC-42665,2026-04-15T00:00:00.000Z,Rivet Play,CA-ON,Portal,Duplicate verification sessions created for one user,S3 - Medium,18.9,3,No,2,User Verification Friction
+832,IDC-42161,2026-02-12T00:00:00.000Z,Rivet Play,CA-ON,Phone,Please adjust our scheduled report frequency,S4 - Low,21.1,3,No,1,Account Admin
+833,IDC-44223,2026-04-18T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Verification failing with provider timeout (504),S2 - High,5.8,4,Yes,3,Platform Reliability Friction
+834,IDC-43330,2026-04-07T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Invoice query forwarded from finance,S3 - Medium,38.9,2,No,2,Account Admin
+835,IDC-44734,2026-02-09T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Question about the data retention period,S4 - Low,56.5,1,No,1,Account Admin
+836,IDC-43894,2026-05-10T00:00:00.000Z,Marigold Gaming,US-MI,Email,Full 9-digit SSN check failing after config change,S3 - Medium,13.2,2,No,2,User Verification Friction
+837,IDC-42178,2026-04-15T00:00:00.000Z,Rivet Play,CA-ON,Email,"Review decision pending for 48h+, players waiting",S2 - High,7,6,No,3,Operational Backlog Friction
+838,IDC-43096,2026-04-14T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Address normalization rejecting apartment formats,S4 - Low,63.2,3,Yes,1,User Verification Friction
+839,IDC-42831,2026-06-28T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S3 - Medium,38.8,5,No,2,Account Admin
+840,IDC-43740,2026-02-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Duplicate verification sessions created for one user,S3 - Medium,43.1,3,No,2,User Verification Friction
+841,IDC-43099,2026-02-11T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Step-up auth triggering for returning players,S3 - Medium,40.6,4,No,2,User Verification Friction
+842,IDC-42396,2026-04-10T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Player says they were verified twice and charged twice,S4 - Low,54.1,3,No,1,User Verification Friction
+843,IDC-42872,2026-06-22T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Token creation request returning 401,S2 - High,13.4,4,No,3,Integration & Config
+844,IDC-44159,2026-05-19T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Please adjust our scheduled report frequency,S4 - Low,44.4,1,No,1,Account Admin
+845,IDC-42634,2026-03-20T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S4 - Low,32,3,Yes,1,Account Admin
+846,IDC-42467,2026-02-26T00:00:00.000Z,Rivet Play,CA-ON,Email,Player says they were verified twice and charged twice,S3 - Medium,41.3,5,No,2,User Verification Friction
+847,IDC-42063,2026-07-26T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Sudden spike in failed verifications, nothing changed our side",S1 - Critical,8.7,11,No,4,Platform Reliability Friction
+848,IDC-42781,2026-07-08T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Sanctions hit looks like a false positive, please review",S2 - High,8.6,7,No,3,Compliance Decision Friction
+849,IDC-43040,2026-04-21T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Inaccurate PEP alert on an obviously low-risk player,S1 - Critical,4.4,10,No,4,Compliance Decision Friction
+850,IDC-44322,2026-04-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Requesting SOC 2 report for our compliance team,S4 - Low,65.3,1,No,1,Account Admin
+851,IDC-42989,2026-03-13T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,"Onboarding new market, what config changes are needed?",S4 - Low,52.1,2,No,1,Integration & Config
+852,IDC-43702,2026-05-21T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,How do we clear stuck review cases?,S3 - Medium,9.5,6,No,2,Operational Backlog Friction
+853,IDC-42238,2026-07-04T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S3 - Medium,10.8,5,Yes,2,Integration & Config
+854,IDC-43606,2026-04-09T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Verification failing with provider timeout (504),S1 - Critical,7.1,11,No,4,Platform Reliability Friction
+855,IDC-42536,2026-03-21T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S2 - High,17.1,7,No,3,Integration & Config
+856,IDC-44124,2026-05-05T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Too many users routed to step-up this week,S2 - High,16.5,8,No,3,User Verification Friction
+857,IDC-43137,2026-03-15T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Please adjust our scheduled report frequency,S4 - Low,56.2,2,No,1,Account Admin
+858,IDC-42699,2026-05-20T00:00:00.000Z,Rivet Play,CA-ON,Portal,Can the check flag an underage applicant?,S2 - High,22.7,5,No,3,Compliance Decision Friction
+859,IDC-42677,2026-05-19T00:00:00.000Z,Rivet Play,CA-ON,Email,IP allowlisting request for a new environment,S3 - Medium,33.6,6,No,2,Integration & Config
+860,IDC-43054,2026-07-17T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"PO Box treated as invalid, several player complaints",S4 - Low,67.8,1,No,1,User Verification Friction
+861,IDC-43847,2026-04-15T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"Sudden spike in failed verifications, nothing changed our side",S2 - High,21,8,No,3,Platform Reliability Friction
+862,IDC-42970,2026-04-16T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Can the check flag an underage applicant?,S4 - Low,21.9,3,No,1,Compliance Decision Friction
+863,IDC-42638,2026-04-08T00:00:00.000Z,Rivet Play,CA-ON,Portal,Step-up auth triggering for returning players,S3 - Medium,32.2,4,No,2,User Verification Friction
+864,IDC-42604,2026-05-02T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,45.7,1,No,1,Account Admin
+865,IDC-42603,2026-05-19T00:00:00.000Z,Rivet Play,CA-ON,Email,Requesting SOC 2 report for our compliance team,S4 - Low,37.2,1,No,1,Account Admin
+866,IDC-44295,2026-04-01T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Date of birth validation rejecting valid 1999 dates,S3 - Medium,29.3,4,No,2,User Verification Friction
+867,IDC-44060,2026-04-10T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Sudden spike in failed verifications, nothing changed our side",S1 - Critical,6.5,9,Yes,4,Platform Reliability Friction
+868,IDC-43840,2026-03-18T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,"CfA failing, what does phone_not_baselined mean?",S2 - High,24.5,4,No,3,Platform Reliability Friction
+869,IDC-42335,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S4 - Low,37.1,1,No,1,Account Admin
+870,IDC-44587,2026-05-11T00:00:00.000Z,Ashgrove Bet,UK,Email,Question about the data retention period,S4 - Low,36.4,3,No,1,Account Admin
+871,IDC-42555,2026-04-20T00:00:00.000Z,Rivet Play,CA-ON,Portal,Set up user access for two new team members,S4 - Low,20.7,1,No,1,Integration & Config
+872,IDC-43070,2026-03-04T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Request: export of last month's verification volumes,S4 - Low,18.8,2,No,1,Account Admin
+873,IDC-44844,2026-07-21T00:00:00.000Z,Pinnacle Play,US-CO,Email,Player says they were verified twice and charged twice,S2 - High,9.3,4,No,3,User Verification Friction
+874,IDC-44225,2026-08-01T00:00:00.000Z,Selkirk Interactive,US-AZ,Phone,ID capture screen freezes on mobile for several users,S1 - Critical,2.3,10,No,4,User Verification Friction
+875,IDC-42901,2026-06-16T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Sudden spike in failed verifications, nothing changed our side",S3 - Medium,30,2,No,2,Platform Reliability Friction
+876,IDC-44311,2026-04-26T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Please adjust our scheduled report frequency,S3 - Medium,31.4,2,Yes,2,Account Admin
+877,IDC-43920,2026-06-01T00:00:00.000Z,Marigold Gaming,US-MI,Email,Requesting SOC 2 report for our compliance team,S3 - Medium,25.4,2,No,2,Account Admin
+878,IDC-43605,2026-06-01T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Callback not received after verification completes,S3 - Medium,26.1,3,No,2,Platform Reliability Friction
+879,IDC-43885,2026-03-27T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Front of licence rejected as invalid image,S3 - Medium,41.8,5,No,2,User Verification Friction
+880,IDC-44299,2026-05-08T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Passport read failing for a batch of users,S4 - Low,50.7,1,Yes,1,User Verification Friction
+881,IDC-42732,2026-04-16T00:00:00.000Z,Rivet Play,CA-ON,Phone,IP allowlisting request for a new environment,S3 - Medium,34.4,3,No,2,Integration & Config
+882,IDC-44768,2026-05-27T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Zip code mismatch on addresses we believe are valid,S2 - High,18.6,8,No,3,User Verification Friction
+883,IDC-44659,2026-05-26T00:00:00.000Z,Pinnacle Play,US-CO,Portal,"PO Box treated as invalid, several player complaints",S3 - Medium,23.2,3,No,2,User Verification Friction
+884,IDC-42528,2026-07-13T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Onboarding new market, what config changes are needed?",S4 - Low,14.2,1,No,1,Integration & Config
+885,IDC-42894,2026-06-19T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,38.5,6,No,2,Platform Reliability Friction
+886,IDC-42097,2026-07-13T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S4 - Low,43.6,2,No,1,Account Admin
+887,IDC-42201,2026-07-07T00:00:00.000Z,Rivet Play,CA-ON,Portal,apiKey rejected when sent in the request body,S3 - Medium,23,6,No,2,Integration & Config
+888,IDC-42561,2026-05-19T00:00:00.000Z,Rivet Play,CA-ON,Portal,Manual review queue backing up this week,S3 - Medium,40.6,3,No,2,Operational Backlog Friction
+889,IDC-43102,2026-03-23T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,41.9,4,No,2,User Verification Friction
+890,IDC-42473,2026-03-03T00:00:00.000Z,Rivet Play,CA-ON,Email,New image capture flow rejecting valid IDs,S3 - Medium,17.7,3,No,2,User Verification Friction
+891,IDC-43130,2026-05-01T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,18.6,3,No,2,User Verification Friction
+892,IDC-42808,2026-05-11T00:00:00.000Z,Rivet Play,CA-ON,Portal,"vendors.error on data check, backend did not respond in time",S2 - High,11.5,8,No,3,Platform Reliability Friction
+893,IDC-43576,2026-04-01T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Please adjust our scheduled report frequency,S4 - Low,62.2,2,No,1,Account Admin
+894,IDC-44846,2026-03-24T00:00:00.000Z,Pinnacle Play,US-CO,Email,ID capture screen freezes on mobile for several users,S3 - Medium,39.6,2,Yes,2,User Verification Friction
+895,IDC-44263,2026-06-05T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Can the check flag an underage applicant?,S3 - Medium,11.9,4,No,2,Compliance Decision Friction
+896,IDC-42927,2026-06-09T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Watchlist screening flagged the wrong person,S2 - High,23.5,7,No,3,Compliance Decision Friction
+897,IDC-43577,2026-04-11T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Verification failing with provider timeout (504),S2 - High,24.7,7,No,3,Platform Reliability Friction
+898,IDC-44678,2026-03-09T00:00:00.000Z,Pinnacle Play,US-CO,Email,IP allowlisting request for a new environment,S4 - Low,19.1,2,No,1,Integration & Config
+899,IDC-44715,2026-07-31T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Onboarding new market, what config changes are needed?",S4 - Low,39.6,2,No,1,Integration & Config
+900,IDC-44906,2026-05-02T00:00:00.000Z,Pinnacle Play,US-CO,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,39,4,No,2,Compliance Decision Friction
+901,IDC-43110,2026-03-23T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Manual review queue backing up this week,S4 - Low,49.5,2,No,1,Operational Backlog Friction
+902,IDC-43007,2026-07-14T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Please adjust our scheduled report frequency,S4 - Low,67.1,2,No,1,Account Admin
+903,IDC-42137,2026-05-22T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S3 - Medium,30,5,No,2,Integration & Config
+904,IDC-43675,2026-05-26T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"Sanctions hit looks like a false positive, please review",S4 - Low,56.2,3,No,1,Compliance Decision Friction
+905,IDC-43496,2026-03-25T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,"OTP channel timeout error, must be integer 15-900",S3 - Medium,31.2,3,No,2,User Verification Friction
+906,IDC-44352,2026-04-27T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Callback not received after verification completes,S3 - Medium,38.7,2,No,2,Platform Reliability Friction
+907,IDC-43061,2026-05-03T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Duplicate verification sessions created for one user,S3 - Medium,34,4,No,2,User Verification Friction
+908,IDC-43157,2026-04-06T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,"Review decision pending for 48h+, players waiting",S2 - High,25.7,4,No,3,Operational Backlog Friction
+909,IDC-43671,2026-04-25T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"Sudden spike in failed verifications, nothing changed our side",S2 - High,18.5,8,No,3,Platform Reliability Friction
+910,IDC-42940,2026-05-19T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Token creation request returning 401,S3 - Medium,10.4,3,No,2,Integration & Config
+911,IDC-42764,2026-04-06T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Image capture loops, QR code keeps reloading on handoff",S4 - Low,34.8,3,No,1,User Verification Friction
+912,IDC-43532,2026-06-16T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Callback not received after verification completes,S3 - Medium,12.8,2,No,2,Platform Reliability Friction
+913,IDC-44007,2026-05-01T00:00:00.000Z,Marigold Gaming,US-MI,Email,Set up user access for two new team members,S4 - Low,25.2,1,No,1,Integration & Config
+914,IDC-44731,2026-02-02T00:00:00.000Z,Pinnacle Play,US-CO,Email,Full 9-digit SSN check failing after config change,S3 - Medium,30.6,2,No,2,User Verification Friction
+915,IDC-44237,2026-06-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Duplicate verification sessions created for one user,S4 - Low,48.2,2,No,1,User Verification Friction
+916,IDC-44635,2026-03-31T00:00:00.000Z,Ashgrove Bet,UK,Phone,"Sanctions hit looks like a false positive, please review",S3 - Medium,31.7,3,No,2,Compliance Decision Friction
+917,IDC-44278,2026-05-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,Selfie step blank on Android Chrome,S3 - Medium,23.7,2,No,2,User Verification Friction
+918,IDC-42994,2026-06-28T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Manual review queue backing up this week,S4 - Low,49.9,1,No,1,Operational Backlog Friction
+919,IDC-43453,2026-07-26T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Watchlist screening flagged the wrong person,S3 - Medium,38,6,Yes,2,Compliance Decision Friction
+920,IDC-42102,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Question about the data retention period,S3 - Medium,32.8,5,No,2,Account Admin
+921,IDC-42426,2026-04-08T00:00:00.000Z,Rivet Play,CA-ON,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,35.8,3,No,2,User Verification Friction
+922,IDC-44737,2026-06-14T00:00:00.000Z,Pinnacle Play,US-CO,Email,New image capture flow rejecting valid IDs,S2 - High,8.2,7,Yes,3,User Verification Friction
+923,IDC-44133,2026-04-14T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"Pass rate dropped sharply this week, is a data provider down?",S1 - Critical,8.4,8,No,4,Platform Reliability Friction
+924,IDC-42204,2026-06-06T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S3 - Medium,33.2,4,No,2,Account Admin
+925,IDC-42644,2026-07-16T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Duplicate verification sessions created for one user,S3 - Medium,22.8,5,No,2,User Verification Friction
+926,IDC-42080,2026-05-23T00:00:00.000Z,Rivet Play,CA-ON,Email,Set up user access for two new team members,S3 - Medium,38.7,4,No,2,Integration & Config
+927,IDC-43665,2026-04-26T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Verification failing with provider timeout (504),S3 - Medium,31.9,3,No,2,Platform Reliability Friction
+928,IDC-44150,2026-04-03T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,Player passed data check but failed secondary auth,S3 - Medium,30.7,5,No,2,User Verification Friction
+929,IDC-42315,2026-07-24T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Callback not received after verification completes,S1 - Critical,7,12,No,4,Platform Reliability Friction
+930,IDC-43349,2026-05-04T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Too many users routed to step-up this week,S3 - Medium,27.4,2,No,2,User Verification Friction
+931,IDC-42667,2026-06-05T00:00:00.000Z,Rivet Play,CA-ON,Portal,Can the check flag an underage applicant?,S3 - Medium,17,5,No,2,Compliance Decision Friction
+932,IDC-43376,2026-04-13T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Token creation request returning 401,S3 - Medium,18.4,3,No,2,Integration & Config
+933,IDC-44364,2026-06-13T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Full 9-digit SSN check failing after config change,S3 - Medium,42.4,2,No,2,User Verification Friction
+934,IDC-42584,2026-03-14T00:00:00.000Z,Rivet Play,CA-ON,Portal,Callback not received after verification completes,S3 - Medium,30,6,Yes,2,Platform Reliability Friction
+935,IDC-44539,2026-03-26T00:00:00.000Z,Ashgrove Bet,UK,Email,Selfie step blank on Android Chrome,S3 - Medium,18.9,2,No,2,User Verification Friction
+936,IDC-43600,2026-05-19T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,Address normalization rejecting apartment formats,S3 - Medium,29.7,3,No,2,User Verification Friction
+937,IDC-44889,2026-02-24T00:00:00.000Z,Pinnacle Play,US-CO,Portal,SSN last-4 not matching for valid users,S3 - Medium,27.1,3,No,2,User Verification Friction
+938,IDC-42867,2026-05-04T00:00:00.000Z,Rivet Play,CA-ON,Email,Can the check flag an underage applicant?,S4 - Low,67.4,1,No,1,Compliance Decision Friction
+939,IDC-43249,2026-05-14T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Step-up auth triggering for returning players,S3 - Medium,30.1,6,No,2,User Verification Friction
+940,IDC-43705,2026-06-30T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Player says they were verified twice and charged twice,S3 - Medium,31.7,6,No,2,User Verification Friction
+941,IDC-42621,2026-06-13T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S4 - Low,26.4,3,No,1,Integration & Config
+942,IDC-42319,2026-05-21T00:00:00.000Z,Rivet Play,CA-ON,Phone,Duplicate verification sessions created for one user,S1 - Critical,11.8,7,No,4,User Verification Friction
+943,IDC-42848,2026-02-25T00:00:00.000Z,Rivet Play,CA-ON,Email,apiKey rejected when sent in the request body,S1 - Critical,2.4,6,Yes,4,Integration & Config
+944,IDC-44030,2026-05-11T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Review decision pending for 48h+, players waiting",S4 - Low,28.5,2,No,1,Operational Backlog Friction
+945,IDC-43795,2026-06-03T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,SSN last-4 not matching for valid users,S3 - Medium,16.1,2,No,2,User Verification Friction
+946,IDC-43658,2026-02-16T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Can the check flag an underage applicant?,S3 - Medium,28,3,No,2,Compliance Decision Friction
+947,IDC-42598,2026-04-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,"Review decision pending for 48h+, players waiting",S3 - Medium,9.7,6,No,2,Operational Backlog Friction
+948,IDC-44683,2026-05-06T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Question about the data retention period,S4 - Low,56.1,2,No,1,Account Admin
+949,IDC-44831,2026-07-25T00:00:00.000Z,Pinnacle Play,US-CO,Email,"Review decision pending for 48h+, players waiting",S3 - Medium,22.3,2,No,2,Operational Backlog Friction
+950,IDC-43733,2026-03-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Address normalization rejecting apartment formats,S3 - Medium,33.7,2,No,2,User Verification Friction
+951,IDC-43121,2026-07-29T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S2 - High,17.4,4,No,3,Platform Reliability Friction
+952,IDC-42462,2026-03-12T00:00:00.000Z,Rivet Play,CA-ON,Phone,"CfA failing, what does phone_not_baselined mean?",S2 - High,20.8,7,No,3,Platform Reliability Friction
+953,IDC-42843,2026-02-26T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S3 - Medium,26.9,2,No,2,Account Admin
+954,IDC-43992,2026-02-21T00:00:00.000Z,Marigold Gaming,US-MI,Email,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,39.6,5,No,2,Compliance Decision Friction
+955,IDC-42175,2026-04-15T00:00:00.000Z,Rivet Play,CA-ON,Email,Passport read failing for a batch of users,S3 - Medium,9.5,2,No,2,User Verification Friction
+956,IDC-44724,2026-07-20T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Upload succeeds but result says image invalid,S2 - High,14.3,7,No,3,User Verification Friction
+957,IDC-43164,2026-03-23T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Player passed data check but failed secondary auth,S2 - High,25,4,No,3,User Verification Friction
+958,IDC-44426,2026-04-16T00:00:00.000Z,Ashgrove Bet,UK,Phone,Upstream data check returning gateway errors since Monday,S1 - Critical,7.8,9,Yes,4,Platform Reliability Friction
+959,IDC-42434,2026-04-05T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S3 - Medium,16.5,2,No,2,Account Admin
+960,IDC-43382,2026-07-05T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Upload succeeds but result says image invalid,S2 - High,24.7,6,No,3,User Verification Friction
+961,IDC-43645,2026-07-21T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Address normalization rejecting apartment formats,S3 - Medium,37.6,4,No,2,User Verification Friction
+962,IDC-42278,2026-07-18T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Request: export of last month's verification volumes,S3 - Medium,30.6,2,No,2,Account Admin
+963,IDC-42099,2026-04-09T00:00:00.000Z,Rivet Play,CA-ON,Portal,Manual review queue backing up this week,S4 - Low,61.4,3,No,1,Operational Backlog Friction
+964,IDC-43174,2026-04-18T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"vendors.error on data check, backend did not respond in time",S2 - High,13.5,9,No,3,Platform Reliability Friction
+965,IDC-43836,2026-06-29T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Date of birth validation rejecting valid 1999 dates,S2 - High,23.8,8,No,3,User Verification Friction
+966,IDC-43086,2026-06-29T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,Verification failing with provider timeout (504),S2 - High,25.8,5,No,3,Platform Reliability Friction
+967,IDC-43457,2026-07-08T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"Base URL misconfigured, double https in the endpoint",S3 - Medium,41.5,4,No,2,Integration & Config
+968,IDC-44306,2026-07-07T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,How do we clear stuck review cases?,S3 - Medium,27.8,4,No,2,Operational Backlog Friction
+969,IDC-43936,2026-07-23T00:00:00.000Z,Marigold Gaming,US-MI,Email,Requesting SOC 2 report for our compliance team,S4 - Low,21.9,1,No,1,Account Admin
+970,IDC-44424,2026-07-01T00:00:00.000Z,Ashgrove Bet,UK,Portal,"CfA failing, what does phone_not_baselined mean?",S2 - High,17.8,8,No,3,Platform Reliability Friction
+971,IDC-44766,2026-03-08T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Webhook signature verification failing in staging,S3 - Medium,39.2,5,No,2,Platform Reliability Friction
+972,IDC-44441,2026-03-04T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Date of birth validation rejecting valid 1999 dates,S2 - High,11.4,9,No,3,User Verification Friction
+973,IDC-42709,2026-05-30T00:00:00.000Z,Rivet Play,CA-ON,Email,Invoice query forwarded from finance,S3 - Medium,35.1,6,No,2,Account Admin
+974,IDC-44093,2026-02-02T00:00:00.000Z,Marigold Gaming,US-MI,Email,"OTP channel timeout error, must be integer 15-900",S2 - High,21.3,8,No,3,User Verification Friction
+975,IDC-44638,2026-05-26T00:00:00.000Z,Ashgrove Bet,UK,Email,SSN last-4 not matching for valid users,S2 - High,5.9,4,No,3,User Verification Friction
+976,IDC-43056,2026-05-18T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Sanctions hit looks like a false positive, please review",S1 - Critical,3.5,12,No,4,Compliance Decision Friction
+977,IDC-42785,2026-02-26T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Webhook signature verification failing in staging,S2 - High,10.8,8,No,3,Platform Reliability Friction
+978,IDC-42230,2026-03-08T00:00:00.000Z,Rivet Play,CA-ON,Phone,"Sanctions hit looks like a false positive, please review",S2 - High,14.7,5,No,3,Compliance Decision Friction
+979,IDC-42497,2026-07-17T00:00:00.000Z,Rivet Play,CA-ON,Portal,Manual review queue backing up this week,S3 - Medium,19.2,3,No,2,Operational Backlog Friction
+980,IDC-42432,2026-05-16T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Zip code mismatch on addresses we believe are valid,S2 - High,17.6,7,No,3,User Verification Friction
+981,IDC-43452,2026-02-09T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Too many users routed to step-up this week,S2 - High,19.4,7,No,3,User Verification Friction
+982,IDC-44691,2026-07-14T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Duplicate verification sessions created for one user,S4 - Low,29.9,2,No,1,User Verification Friction
+983,IDC-42883,2026-05-03T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Date of birth validation rejecting valid 1999 dates,S4 - Low,43.9,2,No,1,User Verification Friction
+984,IDC-43602,2026-03-10T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,23.5,4,No,2,User Verification Friction
+985,IDC-42731,2026-07-18T00:00:00.000Z,Rivet Play,CA-ON,Portal,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,23.6,4,No,2,Platform Reliability Friction
+986,IDC-44249,2026-07-20T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,How do we clear stuck review cases?,S3 - Medium,10.2,3,No,2,Operational Backlog Friction
+987,IDC-43003,2026-05-25T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Zip code mismatch on addresses we believe are valid,S3 - Medium,27.4,3,Yes,2,User Verification Friction
+988,IDC-43981,2026-05-28T00:00:00.000Z,Marigold Gaming,US-MI,Email,Front of licence rejected as invalid image,S1 - Critical,11.5,8,No,4,User Verification Friction
+989,IDC-42029,2026-05-22T00:00:00.000Z,Rivet Play,CA-ON,Portal,Date of birth validation rejecting valid 1999 dates,S2 - High,23.1,7,No,3,User Verification Friction
+990,IDC-42453,2026-04-27T00:00:00.000Z,Rivet Play,CA-ON,Email,Selfie step blank on Android Chrome,S3 - Medium,33,6,No,2,User Verification Friction
+991,IDC-44290,2026-03-23T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,New image capture flow rejecting valid IDs,S3 - Medium,20.6,3,No,2,User Verification Friction
+992,IDC-43757,2026-04-26T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"vendors.error on data check, backend did not respond in time",S3 - Medium,41.6,5,No,2,Platform Reliability Friction
+993,IDC-42865,2026-06-02T00:00:00.000Z,Rivet Play,CA-ON,Email,Manual review queue backing up this week,S3 - Medium,13.1,3,No,2,Operational Backlog Friction
+994,IDC-43220,2026-04-22T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Token creation request returning 401,S4 - Low,57.6,3,No,1,Integration & Config
+995,IDC-44046,2026-03-12T00:00:00.000Z,Marigold Gaming,US-MI,Email,Token creation request returning 401,S2 - High,25.7,7,No,3,Integration & Config
+996,IDC-42044,2026-07-04T00:00:00.000Z,Rivet Play,CA-ON,Email,Verification failing with provider timeout (504),S1 - Critical,12.1,9,No,4,Platform Reliability Friction
+997,IDC-44525,2026-07-26T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Watchlist screening flagged the wrong person,S4 - Low,59.5,2,No,1,Compliance Decision Friction
+998,IDC-44552,2026-03-18T00:00:00.000Z,Ashgrove Bet,UK,Email,Token creation request returning 401,S3 - Medium,34.4,6,No,2,Integration & Config
+999,IDC-44872,2026-03-22T00:00:00.000Z,Pinnacle Play,US-CO,Portal,"vendors.error on data check, backend did not respond in time",S1 - Critical,4.2,12,No,4,Platform Reliability Friction
+1000,IDC-43520,2026-07-01T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Watchlist screening flagged the wrong person,S2 - High,6.3,8,No,3,Compliance Decision Friction
+1001,IDC-43690,2026-05-11T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Front of licence rejected as invalid image,S3 - Medium,15.7,5,Yes,2,User Verification Friction
+1002,IDC-42089,2026-07-06T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S4 - Low,22.4,2,Yes,1,Integration & Config
+1003,IDC-43877,2026-04-12T00:00:00.000Z,Marigold Gaming,US-MI,Portal,"Onboarding new market, what config changes are needed?",S4 - Low,28.9,3,No,1,Integration & Config
+1004,IDC-42138,2026-06-19T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S4 - Low,38.4,1,Yes,1,Account Admin
+1005,IDC-44391,2026-05-11T00:00:00.000Z,Ashgrove Bet,UK,Email,IDPV outcome differs across document types,S3 - Medium,15.3,4,No,2,Compliance Decision Friction
+1006,IDC-44154,2026-04-01T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Invoice query forwarded from finance,S4 - Low,70,3,No,1,Account Admin
+1007,IDC-44291,2026-03-31T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,28.2,4,No,2,User Verification Friction
+1008,IDC-44581,2026-03-19T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,apiKey rejected when sent in the request body,S2 - High,19,4,No,3,Integration & Config
+1009,IDC-44660,2026-04-19T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Webhook signature verification failing in staging,S2 - High,7.4,5,No,3,Platform Reliability Friction
+1010,IDC-44728,2026-07-05T00:00:00.000Z,Pinnacle Play,US-CO,Email,Question about the data retention period,S3 - Medium,22.4,2,No,2,Account Admin
+1011,IDC-44476,2026-08-02T00:00:00.000Z,Ashgrove Bet,UK,Email,Manual review queue backing up this week,S3 - Medium,40.8,6,No,2,Operational Backlog Friction
+1012,IDC-43770,2026-04-17T00:00:00.000Z,Cobalt Sportsbook,US-PA,Slack Connect,SSN last-4 not matching for valid users,S3 - Medium,43.3,4,Yes,2,User Verification Friction
+1013,IDC-43822,2026-05-19T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Invoice query forwarded from finance,S4 - Low,64.6,2,No,1,Account Admin
+1014,IDC-44829,2026-02-14T00:00:00.000Z,Pinnacle Play,US-CO,Portal,"vendors.error on data check, backend did not respond in time",S2 - High,13.5,5,No,3,Platform Reliability Friction
+1015,IDC-44106,2026-05-06T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Partial match returns no data on first attempt,S4 - Low,57.9,3,No,1,User Verification Friction
+1016,IDC-42965,2026-07-22T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"OTP channel timeout error, must be integer 15-900",S4 - Low,21.7,3,No,1,User Verification Friction
+1017,IDC-43463,2026-02-12T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Duplicate verification sessions created for one user,S3 - Medium,18.6,5,Yes,2,User Verification Friction
+1018,IDC-43476,2026-04-27T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Inaccurate PEP alert on an obviously low-risk player,S3 - Medium,9.6,3,No,2,Compliance Decision Friction
+1019,IDC-42014,2026-06-21T00:00:00.000Z,Rivet Play,CA-ON,Email,Upload succeeds but result says image invalid,S1 - Critical,8.4,10,No,4,User Verification Friction
+1020,IDC-44013,2026-04-05T00:00:00.000Z,Marigold Gaming,US-MI,Email,Duplicate verification sessions created for one user,S3 - Medium,9.1,4,No,2,User Verification Friction
+1021,IDC-44367,2026-03-21T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,ID capture screen freezes on mobile for several users,S3 - Medium,41.4,6,No,2,User Verification Friction
+1022,IDC-43370,2026-06-23T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Player passed data check but failed secondary auth,S2 - High,17.3,5,No,3,User Verification Friction
+1023,IDC-44078,2026-04-11T00:00:00.000Z,Marigold Gaming,US-MI,Phone,Player says they were verified twice and charged twice,S1 - Critical,3,11,No,4,User Verification Friction
+1024,IDC-43626,2026-05-14T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Address normalization rejecting apartment formats,S3 - Medium,38.7,6,No,2,User Verification Friction
+1025,IDC-44394,2026-06-19T00:00:00.000Z,Ashgrove Bet,UK,Email,"vendors.error on data check, backend did not respond in time",S2 - High,12.2,7,No,3,Platform Reliability Friction
+1026,IDC-43353,2026-03-22T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Inaccurate PEP alert on an obviously low-risk player,S2 - High,21.4,5,No,3,Compliance Decision Friction
+1027,IDC-42357,2026-03-12T00:00:00.000Z,Rivet Play,CA-ON,Phone,IDPV outcome differs across document types,S3 - Medium,20.8,6,No,2,Compliance Decision Friction
+1028,IDC-42057,2026-04-03T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S4 - Low,68.4,1,No,1,Account Admin
+1029,IDC-42695,2026-05-17T00:00:00.000Z,Rivet Play,CA-ON,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,15,4,No,2,User Verification Friction
+1030,IDC-43077,2026-02-27T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Date of birth validation rejecting valid 1999 dates,S4 - Low,56.1,3,No,1,User Verification Friction
+1031,IDC-44446,2026-06-08T00:00:00.000Z,Ashgrove Bet,UK,Portal,ID capture screen freezes on mobile for several users,S4 - Low,56.3,2,No,1,User Verification Friction
+1032,IDC-44586,2026-03-18T00:00:00.000Z,Ashgrove Bet,UK,Portal,Token creation request returning 401,S3 - Medium,33.6,2,No,2,Integration & Config
+1033,IDC-44680,2026-05-01T00:00:00.000Z,Pinnacle Play,US-CO,Email,Invoice query forwarded from finance,S3 - Medium,13.4,2,No,2,Account Admin
+1034,IDC-42207,2026-02-03T00:00:00.000Z,Rivet Play,CA-ON,Email,apiKey rejected when sent in the request body,S3 - Medium,12.3,2,No,2,Integration & Config
+1035,IDC-42681,2026-07-12T00:00:00.000Z,Rivet Play,CA-ON,Email,Manual review queue backing up this week,S4 - Low,24,2,No,1,Operational Backlog Friction
+1036,IDC-42568,2026-07-25T00:00:00.000Z,Rivet Play,CA-ON,Portal,Callback not received after verification completes,S4 - Low,53.2,1,No,1,Platform Reliability Friction
+1037,IDC-42949,2026-04-15T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Please add our new brand to the account,S3 - Medium,29.8,4,No,2,Integration & Config
+1038,IDC-43742,2026-04-03T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Player passed data check but failed secondary auth,S3 - Medium,41.7,2,No,2,User Verification Friction
+1039,IDC-42522,2026-02-09T00:00:00.000Z,Rivet Play,CA-ON,Email,"Review decision pending for 48h+, players waiting",S3 - Medium,17.2,4,No,2,Operational Backlog Friction
+1040,IDC-42960,2026-03-23T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,How do we clear stuck review cases?,S3 - Medium,17.8,2,No,2,Operational Backlog Friction
+1041,IDC-43444,2026-06-18T00:00:00.000Z,Foundry Gaming,US-NJ,Email,How do we clear stuck review cases?,S3 - Medium,26.5,5,No,2,Operational Backlog Friction
+1042,IDC-43834,2026-05-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Token creation request returning 401,S3 - Medium,24.4,6,No,2,Integration & Config
+1043,IDC-42061,2026-07-05T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S4 - Low,15.7,3,No,1,Integration & Config
+1044,IDC-42065,2026-06-06T00:00:00.000Z,Rivet Play,CA-ON,Portal,Front of licence rejected as invalid image,S2 - High,15.7,7,Yes,3,User Verification Friction
+1045,IDC-43718,2026-04-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,"Pass rate dropped sharply this week, is a data provider down?",S2 - High,18.5,4,Yes,3,Platform Reliability Friction
+1046,IDC-44851,2026-02-17T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,SSN last-4 not matching for valid users,S3 - Medium,24.5,2,No,2,User Verification Friction
+1047,IDC-43932,2026-04-04T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Full 9-digit SSN check failing after config change,S3 - Medium,32.5,5,No,2,User Verification Friction
+1048,IDC-42019,2026-05-03T00:00:00.000Z,Rivet Play,CA-ON,Email,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,16.7,4,Yes,2,User Verification Friction
+1049,IDC-42154,2026-03-24T00:00:00.000Z,Rivet Play,CA-ON,Email,Webhook signature verification failing in staging,S3 - Medium,27.3,6,No,2,Platform Reliability Friction
+1050,IDC-42539,2026-04-11T00:00:00.000Z,Rivet Play,CA-ON,Portal,IDPV outcome differs across document types,S4 - Low,51,2,No,1,Compliance Decision Friction
+1051,IDC-42077,2026-04-22T00:00:00.000Z,Rivet Play,CA-ON,Phone,IP allowlisting request for a new environment,S2 - High,18.8,9,No,3,Integration & Config
+1052,IDC-42318,2026-07-30T00:00:00.000Z,Rivet Play,CA-ON,Portal,Player says they were verified twice and charged twice,S3 - Medium,28.1,4,No,2,User Verification Friction
+1053,IDC-43237,2026-03-26T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,25.8,5,No,2,Compliance Decision Friction
+1054,IDC-44749,2026-05-20T00:00:00.000Z,Pinnacle Play,US-CO,Email,Token creation request returning 401,S4 - Low,38.5,1,No,1,Integration & Config
+1055,IDC-42168,2026-07-20T00:00:00.000Z,Rivet Play,CA-ON,Email,Please add our new brand to the account,S4 - Low,62.9,2,No,1,Integration & Config
+1056,IDC-43182,2026-04-03T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Token creation request returning 401,S2 - High,9.2,7,No,3,Integration & Config
+1057,IDC-43950,2026-04-18T00:00:00.000Z,Marigold Gaming,US-MI,Email,Upstream data check returning gateway errors since Monday,S2 - High,13,7,No,3,Platform Reliability Friction
+1058,IDC-42915,2026-07-13T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Duplicate verification sessions created for one user,S3 - Medium,28.4,5,No,2,User Verification Friction
+1059,IDC-42879,2026-05-03T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,Step-up auth triggering for returning players,S3 - Medium,17,5,No,2,User Verification Friction
+1060,IDC-42912,2026-03-29T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Request: export of last month's verification volumes,S4 - Low,68.6,1,No,1,Account Admin
+1061,IDC-44244,2026-05-11T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,How do we clear stuck review cases?,S4 - Low,40,1,No,1,Operational Backlog Friction
+1062,IDC-43270,2026-02-16T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Can we suppress PEP alerts for our US-only brand?,S4 - Low,68.9,3,No,1,Compliance Decision Friction
+1063,IDC-43101,2026-02-09T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Date of birth validation rejecting valid 1999 dates,S3 - Medium,32.5,2,No,2,User Verification Friction
+1064,IDC-43413,2026-03-27T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Player passed data check but failed secondary auth,S3 - Medium,14.6,4,No,2,User Verification Friction
+1065,IDC-43524,2026-04-20T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Passport read failing for a batch of users,S3 - Medium,43.6,5,Yes,2,User Verification Friction
+1066,IDC-44927,2026-04-13T00:00:00.000Z,Pinnacle Play,US-CO,Email,Watchlist screening flagged the wrong person,S2 - High,8.2,7,No,3,Compliance Decision Friction
+1067,IDC-44709,2026-06-27T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Please adjust our scheduled report frequency,S3 - Medium,12.2,2,No,2,Account Admin
+1068,IDC-44914,2026-07-27T00:00:00.000Z,Pinnacle Play,US-CO,Phone,IDPV outcome differs across document types,S2 - High,5.9,9,Yes,3,Compliance Decision Friction
+1069,IDC-42340,2026-07-11T00:00:00.000Z,Rivet Play,CA-ON,Email,ID capture screen freezes on mobile for several users,S3 - Medium,31.1,6,No,2,User Verification Friction
+1070,IDC-44234,2026-03-02T00:00:00.000Z,Selkirk Interactive,US-AZ,Portal,apiKey rejected when sent in the request body,S2 - High,8,5,No,3,Integration & Config
+1071,IDC-43912,2026-07-30T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Zip code mismatch on addresses we believe are valid,S3 - Medium,36,4,No,2,User Verification Friction
+1072,IDC-42649,2026-02-19T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S4 - Low,60.4,1,No,1,Account Admin
+1073,IDC-44413,2026-07-14T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Date of birth validation rejecting valid 1999 dates,S2 - High,24.2,9,No,3,User Verification Friction
+1074,IDC-42628,2026-03-22T00:00:00.000Z,Rivet Play,CA-ON,Email,IDPV outcome differs across document types,S2 - High,8.7,8,No,3,Compliance Decision Friction
+1075,IDC-43079,2026-05-08T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Base URL misconfigured, double https in the endpoint",S3 - Medium,35.6,5,No,2,Integration & Config
+1076,IDC-44923,2026-06-10T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Step-up auth triggering for returning players,S3 - Medium,16.4,2,No,2,User Verification Friction
+1077,IDC-44158,2026-07-28T00:00:00.000Z,Selkirk Interactive,US-AZ,Slack Connect,IDPV outcome differs across document types,S3 - Medium,15.9,2,No,2,Compliance Decision Friction
+1078,IDC-42859,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,IDPV outcome differs across document types,S2 - High,15.1,7,Yes,3,Compliance Decision Friction
+1079,IDC-42819,2026-02-04T00:00:00.000Z,Rivet Play,CA-ON,Email,How do we clear stuck review cases?,S2 - High,8.5,6,No,3,Operational Backlog Friction
+1080,IDC-43481,2026-04-20T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Too many users routed to step-up this week,S3 - Medium,42.2,4,No,2,User Verification Friction
+1081,IDC-44382,2026-07-17T00:00:00.000Z,Ashgrove Bet,UK,Phone,"Sanctions hit looks like a false positive, please review",S2 - High,21,5,No,3,Compliance Decision Friction
+1082,IDC-44540,2026-04-01T00:00:00.000Z,Ashgrove Bet,UK,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,21,5,No,2,User Verification Friction
+1083,IDC-43059,2026-05-23T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,36.5,3,No,2,Platform Reliability Friction
+1084,IDC-43212,2026-04-20T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Too many users routed to step-up this week,S2 - High,6.4,4,No,3,User Verification Friction
+1085,IDC-42685,2026-05-25T00:00:00.000Z,Rivet Play,CA-ON,Portal,Manual review queue backing up this week,S2 - High,12.4,4,No,3,Operational Backlog Friction
+1086,IDC-44321,2026-06-19T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,25,5,No,2,User Verification Friction
+1087,IDC-43016,2026-03-25T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,34,4,No,2,Platform Reliability Friction
+1088,IDC-43402,2026-06-03T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Manual review queue backing up this week,S3 - Medium,34,5,No,2,Operational Backlog Friction
+1089,IDC-42606,2026-05-06T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Player says they were verified twice and charged twice,S3 - Medium,15.3,4,No,2,User Verification Friction
+1090,IDC-42981,2026-06-13T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"PO Box treated as invalid, several player complaints",S2 - High,18.1,4,No,3,User Verification Friction
+1091,IDC-43696,2026-05-10T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Player passed data check but failed secondary auth,S3 - Medium,42.2,6,No,2,User Verification Friction
+1092,IDC-42308,2026-02-11T00:00:00.000Z,Rivet Play,CA-ON,Email,Zip code mismatch on addresses we believe are valid,S3 - Medium,10.9,2,No,2,User Verification Friction
+1093,IDC-43406,2026-07-28T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,How do we clear stuck review cases?,S3 - Medium,41.2,5,No,2,Operational Backlog Friction
+1094,IDC-44348,2026-04-15T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,"Pass rate dropped sharply this week, is a data provider down?",S1 - Critical,12.1,11,Yes,4,Platform Reliability Friction
+1095,IDC-42365,2026-04-25T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,10.6,6,No,2,User Verification Friction
+1096,IDC-42613,2026-02-06T00:00:00.000Z,Rivet Play,CA-ON,Email,"Sanctions hit looks like a false positive, please review",S3 - Medium,15.3,2,No,2,Compliance Decision Friction
+1097,IDC-42389,2026-04-25T00:00:00.000Z,Rivet Play,CA-ON,Portal,How do we clear stuck review cases?,S3 - Medium,18.7,6,No,2,Operational Backlog Friction
+1098,IDC-44827,2026-03-15T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Invoice query forwarded from finance,S3 - Medium,17.5,2,No,2,Account Admin
+1099,IDC-44465,2026-06-27T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Front of licence rejected as invalid image,S2 - High,9.7,7,No,3,User Verification Friction
+1100,IDC-44789,2026-04-29T00:00:00.000Z,Pinnacle Play,US-CO,Email,Verification failing with provider timeout (504),S1 - Critical,8.4,9,No,4,Platform Reliability Friction
+1101,IDC-42594,2026-06-17T00:00:00.000Z,Rivet Play,CA-ON,Email,IP allowlisting request for a new environment,S3 - Medium,43,3,No,2,Integration & Config
+1102,IDC-43622,2026-03-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Phone,Requesting SOC 2 report for our compliance team,S4 - Low,49,3,No,1,Account Admin
+1103,IDC-42652,2026-05-03T00:00:00.000Z,Rivet Play,CA-ON,Portal,Set up user access for two new team members,S4 - Low,55.6,2,No,1,Integration & Config
+1104,IDC-44461,2026-07-02T00:00:00.000Z,Ashgrove Bet,UK,Email,"Multiple users failing data verification, provider looks slow",S2 - High,18.1,7,No,3,Platform Reliability Friction
+1105,IDC-42219,2026-03-20T00:00:00.000Z,Rivet Play,CA-ON,Email,apiKey rejected when sent in the request body,S2 - High,15.9,8,No,3,Integration & Config
+1106,IDC-42852,2026-03-18T00:00:00.000Z,Rivet Play,CA-ON,Email,ID capture screen freezes on mobile for several users,S4 - Low,45.7,2,No,1,User Verification Friction
+1107,IDC-42532,2026-07-28T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S4 - Low,17.4,2,No,1,Account Admin
+1108,IDC-43480,2026-02-04T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,21.6,6,No,2,User Verification Friction
+1109,IDC-43640,2026-05-18T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Player says they were verified twice and charged twice,S3 - Medium,34.3,3,No,2,User Verification Friction
+1110,IDC-43994,2026-03-08T00:00:00.000Z,Marigold Gaming,US-MI,Slack Connect,Requesting SOC 2 report for our compliance team,S3 - Medium,14.9,2,No,2,Account Admin
+1111,IDC-43500,2026-05-03T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,Player passed data check but failed secondary auth,S3 - Medium,10.1,2,No,2,User Verification Friction
+1112,IDC-43196,2026-07-06T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Can we suppress PEP alerts for our US-only brand?,S3 - Medium,17.4,3,No,2,Compliance Decision Friction
+1113,IDC-43234,2026-04-01T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,Manual review queue backing up this week,S4 - Low,68.4,1,No,1,Operational Backlog Friction
+1114,IDC-43379,2026-04-19T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"Sanctions hit looks like a false positive, please review",S2 - High,14.7,9,No,3,Compliance Decision Friction
+1115,IDC-43754,2026-06-20T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,SSN last-4 not matching for valid users,S3 - Medium,32.2,4,No,2,User Verification Friction
+1116,IDC-44121,2026-06-05T00:00:00.000Z,Marigold Gaming,US-MI,Portal,ID capture screen freezes on mobile for several users,S4 - Low,28.4,3,Yes,1,User Verification Friction
+1117,IDC-42990,2026-04-02T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Please adjust our scheduled report frequency,S3 - Medium,19.9,3,No,2,Account Admin
+1118,IDC-44590,2026-03-01T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Callback not received after verification completes,S3 - Medium,13.6,5,No,2,Platform Reliability Friction
+1119,IDC-42306,2026-03-18T00:00:00.000Z,Rivet Play,CA-ON,Email,Request: export of last month's verification volumes,S3 - Medium,37.1,6,No,2,Account Admin
+1120,IDC-43271,2026-02-16T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"CfA failing, what does phone_not_baselined mean?",S2 - High,13.7,8,No,3,Platform Reliability Friction
+1121,IDC-42825,2026-07-21T00:00:00.000Z,Rivet Play,CA-ON,Portal,Webhook signature verification failing in staging,S2 - High,14.5,6,No,3,Platform Reliability Friction
+1122,IDC-42296,2026-03-15T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Manual review queue backing up this week,S4 - Low,69.9,2,No,1,Operational Backlog Friction
+1123,IDC-44595,2026-05-02T00:00:00.000Z,Ashgrove Bet,UK,Portal,"Multiple users failing data verification, provider looks slow",S1 - Critical,13.2,9,No,4,Platform Reliability Friction
+1124,IDC-43898,2026-07-01T00:00:00.000Z,Marigold Gaming,US-MI,Email,ID capture screen freezes on mobile for several users,S3 - Medium,12.8,5,No,2,User Verification Friction
+1125,IDC-43171,2026-04-22T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Duplicate verification sessions created for one user,S2 - High,10.6,4,No,3,User Verification Friction
+1126,IDC-43093,2026-04-14T00:00:00.000Z,Tidewater Casino,US-NJ,Email,How do we clear stuck review cases?,S3 - Medium,27.3,2,No,2,Operational Backlog Friction
+1127,IDC-44727,2026-03-17T00:00:00.000Z,Pinnacle Play,US-CO,Slack Connect,Question about the data retention period,S4 - Low,15.8,3,No,1,Account Admin
+1128,IDC-44797,2026-03-07T00:00:00.000Z,Pinnacle Play,US-CO,Portal,IP allowlisting request for a new environment,S4 - Low,46.7,2,No,1,Integration & Config
+1129,IDC-43124,2026-05-26T00:00:00.000Z,Tidewater Casino,US-NJ,Phone,"Review decision pending for 48h+, players waiting",S4 - Low,43.7,3,No,1,Operational Backlog Friction
+1130,IDC-43493,2026-06-15T00:00:00.000Z,Foundry Gaming,US-NJ,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,13.9,3,No,2,User Verification Friction
+1131,IDC-42801,2026-07-27T00:00:00.000Z,Rivet Play,CA-ON,Email,"Onboarding new market, what config changes are needed?",S2 - High,14.3,9,No,3,Integration & Config
+1132,IDC-42725,2026-05-05T00:00:00.000Z,Rivet Play,CA-ON,Email,Webhook signature verification failing in staging,S2 - High,21.8,7,No,3,Platform Reliability Friction
+1133,IDC-44466,2026-06-07T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Full 9-digit SSN check failing after config change,S3 - Medium,14.6,6,No,2,User Verification Friction
+1134,IDC-42395,2026-03-11T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"OTP channel timeout error, must be integer 15-900",S3 - Medium,31.5,2,No,2,User Verification Friction
+1135,IDC-43278,2026-03-03T00:00:00.000Z,Foundry Gaming,US-NJ,Slack Connect,"vendors.error on data check, backend did not respond in time",S1 - Critical,10.3,10,No,4,Platform Reliability Friction
+1136,IDC-42609,2026-02-23T00:00:00.000Z,Rivet Play,CA-ON,Portal,Question about the data retention period,S4 - Low,29.3,1,No,1,Account Admin
+1137,IDC-44517,2026-05-22T00:00:00.000Z,Ashgrove Bet,UK,Slack Connect,Can we suppress PEP alerts for our US-only brand?,S1 - Critical,3.2,9,No,4,Compliance Decision Friction
+1138,IDC-42966,2026-03-06T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Please adjust our scheduled report frequency,S3 - Medium,10.8,4,No,2,Account Admin
+1139,IDC-44285,2026-02-14T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Zip code mismatch on addresses we believe are valid,S3 - Medium,12.2,3,No,2,User Verification Friction
+1140,IDC-42059,2026-07-01T00:00:00.000Z,Rivet Play,CA-ON,Email,"Image capture loops, QR code keeps reloading on handoff",S3 - Medium,16.4,3,Yes,2,User Verification Friction
+1141,IDC-42734,2026-06-26T00:00:00.000Z,Rivet Play,CA-ON,Portal,Invoice query forwarded from finance,S3 - Medium,31.8,6,Yes,2,Account Admin
+1142,IDC-42260,2026-04-30T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Please adjust our scheduled report frequency,S4 - Low,64.2,3,No,1,Account Admin
+1143,IDC-43758,2026-05-24T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,IDPV outcome differs across document types,S3 - Medium,42.2,4,No,2,Compliance Decision Friction
+1144,IDC-43825,2026-02-21T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Can the check flag an underage applicant?,S2 - High,22.4,7,No,3,Compliance Decision Friction
+1145,IDC-43729,2026-02-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Passport read failing for a batch of users,S3 - Medium,37.4,4,No,2,User Verification Friction
+1146,IDC-43116,2026-05-25T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S3 - Medium,12.2,4,No,2,User Verification Friction
+1147,IDC-42251,2026-06-13T00:00:00.000Z,Rivet Play,CA-ON,Email,Please adjust our scheduled report frequency,S4 - Low,54.1,2,No,1,Account Admin
+1148,IDC-42895,2026-03-09T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,Question about the data retention period,S4 - Low,59.4,2,No,1,Account Admin
+1149,IDC-44398,2026-03-01T00:00:00.000Z,Ashgrove Bet,UK,Portal,Can we suppress PEP alerts for our US-only brand?,S2 - High,19.8,4,No,3,Compliance Decision Friction
+1150,IDC-43778,2026-05-19T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Question about the data retention period,S4 - Low,26.8,1,No,1,Account Admin
+1151,IDC-43693,2026-04-23T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Upload succeeds but result says image invalid,S3 - Medium,37.4,2,No,2,User Verification Friction
+1152,IDC-42248,2026-05-03T00:00:00.000Z,Rivet Play,CA-ON,Portal,Please add our new brand to the account,S3 - Medium,24.3,2,No,2,Integration & Config
+1153,IDC-43143,2026-07-06T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Step-up auth triggering for returning players,S2 - High,15.1,7,No,3,User Verification Friction
+1154,IDC-43354,2026-05-17T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Player passed data check but failed secondary auth,S2 - High,19.5,5,No,3,User Verification Friction
+1155,IDC-43789,2026-07-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Too many users routed to step-up this week,S3 - Medium,41.8,4,No,2,User Verification Friction
+1156,IDC-44276,2026-05-12T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Step-up auth triggering for returning players,S3 - Medium,27.3,6,No,2,User Verification Friction
+1157,IDC-42047,2026-04-01T00:00:00.000Z,Rivet Play,CA-ON,Email,Callback not received after verification completes,S2 - High,17.5,6,No,3,Platform Reliability Friction
+1158,IDC-43024,2026-02-11T00:00:00.000Z,Tidewater Casino,US-NJ,Email,Request: export of last month's verification volumes,S3 - Medium,28.4,6,No,2,Account Admin
+1159,IDC-44502,2026-02-28T00:00:00.000Z,Ashgrove Bet,UK,Email,Question about the data retention period,S4 - Low,49.2,3,No,1,Account Admin
+1160,IDC-42570,2026-02-11T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Review decision pending for 48h+, players waiting",S2 - High,21.3,6,No,3,Operational Backlog Friction
+1161,IDC-44270,2026-04-27T00:00:00.000Z,Selkirk Interactive,US-AZ,Email,Date of birth validation rejecting valid 1999 dates,S4 - Low,34.6,3,Yes,1,User Verification Friction
+1162,IDC-44110,2026-05-26T00:00:00.000Z,Marigold Gaming,US-MI,Portal,Duplicate verification sessions created for one user,S3 - Medium,26,6,No,2,User Verification Friction
+1163,IDC-43338,2026-05-10T00:00:00.000Z,Foundry Gaming,US-NJ,Phone,"CfA failing, what does phone_not_baselined mean?",S2 - High,19.4,7,No,3,Platform Reliability Friction
+1164,IDC-42700,2026-03-21T00:00:00.000Z,Rivet Play,CA-ON,Email,Question about the data retention period,S3 - Medium,39.5,6,No,2,Account Admin
+1165,IDC-44510,2026-04-10T00:00:00.000Z,Ashgrove Bet,UK,Email,Full 9-digit SSN check failing after config change,S3 - Medium,18.3,2,No,2,User Verification Friction
+1166,IDC-43152,2026-06-29T00:00:00.000Z,Tidewater Casino,US-NJ,Portal,"Multiple users failing data verification, provider looks slow",S3 - Medium,43.4,5,No,2,Platform Reliability Friction
+1167,IDC-42412,2026-04-26T00:00:00.000Z,Rivet Play,CA-ON,Portal,Zip code mismatch on addresses we believe are valid,S3 - Medium,20.6,5,No,2,User Verification Friction
+1168,IDC-43386,2026-05-30T00:00:00.000Z,Foundry Gaming,US-NJ,Email,"Review decision pending for 48h+, players waiting",S3 - Medium,27,5,No,2,Operational Backlog Friction
+1169,IDC-44738,2026-05-05T00:00:00.000Z,Pinnacle Play,US-CO,Email,Can the check flag an underage applicant?,S3 - Medium,32.3,5,No,2,Compliance Decision Friction
+1170,IDC-42817,2026-02-08T00:00:00.000Z,Rivet Play,CA-ON,Email,apiKey rejected when sent in the request body,S3 - Medium,31.1,4,No,2,Integration & Config
+1171,IDC-42303,2026-02-15T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,IDPV outcome differs across document types,S4 - Low,16.7,2,No,1,Compliance Decision Friction
+1172,IDC-42581,2026-06-27T00:00:00.000Z,Rivet Play,CA-ON,Phone,Manual review queue backing up this week,S3 - Medium,39.6,5,No,2,Operational Backlog Friction
+1173,IDC-43716,2026-04-13T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Verification failing with provider timeout (504),S3 - Medium,32.9,4,No,2,Platform Reliability Friction
+1174,IDC-43756,2026-03-05T00:00:00.000Z,Cobalt Sportsbook,US-PA,Email,Partial match returns no data on first attempt,S3 - Medium,35.6,6,No,2,User Verification Friction
+1175,IDC-44933,2026-05-02T00:00:00.000Z,Pinnacle Play,US-CO,Phone,"PO Box treated as invalid, several player complaints",S3 - Medium,21.6,5,Yes,2,User Verification Friction
+1176,IDC-42633,2026-02-25T00:00:00.000Z,Rivet Play,CA-ON,Email,Upload succeeds but result says image invalid,S3 - Medium,33.3,3,No,2,User Verification Friction
+1177,IDC-43033,2026-07-30T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"OTP channel timeout error, must be integer 15-900",S3 - Medium,35,2,No,2,User Verification Friction
+1178,IDC-42673,2026-05-29T00:00:00.000Z,Rivet Play,CA-ON,Email,"Image capture loops, QR code keeps reloading on handoff",S2 - High,24,7,No,3,User Verification Friction
+1179,IDC-44040,2026-04-07T00:00:00.000Z,Marigold Gaming,US-MI,Email,"Sudden spike in failed verifications, nothing changed our side",S2 - High,16.2,8,No,3,Platform Reliability Friction
+1180,IDC-44704,2026-03-18T00:00:00.000Z,Pinnacle Play,US-CO,Portal,Can the check flag an underage applicant?,S4 - Low,38.4,1,No,1,Compliance Decision Friction
+1181,IDC-42987,2026-02-15T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"OTP channel timeout error, must be integer 15-900",S2 - High,6,9,No,3,User Verification Friction
+1182,IDC-43722,2026-06-21T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Step-up auth triggering for returning players,S2 - High,25.2,8,No,3,User Verification Friction
+1183,IDC-43317,2026-06-15T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Date of birth validation rejecting valid 1999 dates,S3 - Medium,20.6,6,No,2,User Verification Friction
+1184,IDC-43108,2026-02-22T00:00:00.000Z,Tidewater Casino,US-NJ,Slack Connect,"Review decision pending for 48h+, players waiting",S3 - Medium,16.9,4,No,2,Operational Backlog Friction
+1185,IDC-42407,2026-02-18T00:00:00.000Z,Rivet Play,CA-ON,Email,Partial match returns no data on first attempt,S3 - Medium,15.8,2,No,2,User Verification Friction
+1186,IDC-43719,2026-02-12T00:00:00.000Z,Cobalt Sportsbook,US-PA,Portal,Can we suppress PEP alerts for our US-only brand?,S2 - High,10.5,4,No,3,Compliance Decision Friction
+1187,IDC-42054,2026-06-05T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,"Base URL misconfigured, double https in the endpoint",S2 - High,22.6,9,No,3,Integration & Config
+1188,IDC-44512,2026-07-22T00:00:00.000Z,Ashgrove Bet,UK,Portal,Watchlist screening flagged the wrong person,S3 - Medium,43.5,3,No,2,Compliance Decision Friction
+1189,IDC-42526,2026-02-20T00:00:00.000Z,Rivet Play,CA-ON,Portal,Request: export of last month's verification volumes,S4 - Low,26.3,3,No,1,Account Admin
+1190,IDC-42596,2026-03-15T00:00:00.000Z,Rivet Play,CA-ON,Phone,Front of licence rejected as invalid image,S4 - Low,19.9,3,No,1,User Verification Friction
+1191,IDC-42664,2026-07-27T00:00:00.000Z,Rivet Play,CA-ON,Email,Duplicate verification sessions created for one user,S3 - Medium,12.6,2,No,2,User Verification Friction
+1192,IDC-43239,2026-05-28T00:00:00.000Z,Foundry Gaming,US-NJ,Email,Too many users routed to step-up this week,S2 - High,13.3,6,No,3,User Verification Friction
+1193,IDC-42027,2026-02-07T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,New image capture flow rejecting valid IDs,S2 - High,9.7,6,No,3,User Verification Friction
+1194,IDC-42589,2026-05-10T00:00:00.000Z,Rivet Play,CA-ON,Email,Front of licence rejected as invalid image,S2 - High,20.8,8,No,3,User Verification Friction
+1195,IDC-42953,2026-06-14T00:00:00.000Z,Tidewater Casino,US-NJ,Email,"Onboarding new market, what config changes are needed?",S3 - Medium,38.9,6,Yes,2,Integration & Config
+1196,IDC-44128,2026-04-15T00:00:00.000Z,Marigold Gaming,US-MI,Email,Upstream data check returning gateway errors since Monday,S2 - High,5.1,8,No,3,Platform Reliability Friction
+1197,IDC-44642,2026-03-08T00:00:00.000Z,Ashgrove Bet,UK,Portal,"OTP channel timeout error, must be integer 15-900",S3 - Medium,16.8,6,No,2,User Verification Friction
+1198,IDC-42284,2026-07-29T00:00:00.000Z,Rivet Play,CA-ON,Slack Connect,Request: export of last month's verification volumes,S4 - Low,68.4,1,Yes,1,Account Admin
+1199,IDC-42400,2026-07-25T00:00:00.000Z,Rivet Play,CA-ON,Email,"CfA failing, what does phone_not_baselined mean?",S3 - Medium,23.3,5,No,2,Platform Reliability Friction

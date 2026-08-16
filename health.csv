@@ -1,9 +1,9 @@
-customer,review_rate,trend_pp
-Ashgrove Bet,0.0558695587843636,-0.414999999999992
-Cobalt Sportsbook,0.0657062710977987,-0.4150000000000062
-Foundry Gaming,0.1325650224215246,-0.269999999999996
-Marigold Gaming,0.0620762050670979,1.8474999999999968
-Pinnacle Play,0.0540450031556305,-0.289999999999992
-Rivet Play,0.0533439357160793,-13.079999999999998
-Selkirk Interactive,0.0630041949015811,-1.2049999999999983
-Tidewater Casino,0.1352878996975658,0.3000000000000113
+customer,overall_pass_rate,review_rate,trend_pp,avg_resolve_hours,reopen_rate,top_category,standout_category,standout_value,status,why
+Ashgrove Bet,0.7118781996271417,0.0558695587843636,-0.414999999999992,25.199082568807334,0.036697247706422,User Verification Friction,Platform Reliability Friction,4.7,green,Stable
+Cobalt Sportsbook,0.6965720534398326,0.0657062710977987,-0.4150000000000062,26.19669421487604,0.0743801652892562,User Verification Friction,Platform Reliability Friction,4.4,amber,"Mild downward drift, watch next quarter"
+Foundry Gaming,0.6518834080717488,0.1325650224215246,-0.269999999999996,25.66546762589928,0.079136690647482,User Verification Friction,Compliance Decision Friction,11.7,red,"Structural: review rate 13%, more than double the group"
+Marigold Gaming,0.7068402984651176,0.0620762050670979,1.8474999999999968,24.212844036697245,0.091743119266055,User Verification Friction,User Verification Friction,7.5,green,Stable
+Pinnacle Play,0.7284483313798478,0.0540450031556305,-0.289999999999992,27.62,0.0869565217391304,User Verification Friction,Integration & Config,3.4,green,Stable
+Rivet Play,0.6542395580480456,0.0533439357160793,-13.079999999999998,27.90193370165746,0.1160220994475138,User Verification Friction,Integration & Config,8.5,red,"Declining fast: pass rate down 13pp over 6 months, ticket volume normal"
+Selkirk Interactive,0.70602268012723,0.0630041949015811,-1.2049999999999983,28.935106382978724,0.0851063829787234,User Verification Friction,Operational Backlog Friction,7.9,amber,"Mild downward drift, watch next quarter"
+Tidewater Casino,0.6578383298587662,0.1352878996975658,0.3000000000000113,28.357615894039736,0.0728476821192053,User Verification Friction,Operational Backlog Friction,6.6,red,"Structural: review rate 14%, more than double the group"

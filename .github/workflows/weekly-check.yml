@@ -29,10 +29,13 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python check_health.py
 
-      - name: Commit updated status history
+      - name: Regenerate dashboard
+        run: python regenerate_dashboard.py
+
+      - name: Commit updated status history and dashboard
         run: |
           git config user.name "health-check-bot"
           git config user.email "actions@github.com"
-          git add status_history.json
-          git diff --staged --quiet || git commit -m "Update status history [automated]"
+          git add status_history.json index.html
+          git diff --staged --quiet || git commit -m "Refresh status history and dashboard [automated]"
           git push
